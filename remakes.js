@@ -2,6 +2,9 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
+import deepai from 'deepai'
+deepai.setApiKey(process.env.DEEP_AI_KEY);
+
 const run = async () => {
     const botPath = `./bots/remakes.json`
     const previousPath = `./bots/remakes.previous`
@@ -53,6 +56,10 @@ const run = async () => {
         return true
     })
 
+    const image = await deepai.callStandardApi("text2img", {
+        text: output,
+    })
+
     const response = await fetch(`https://bugle.lol/@${botData.username}`, {
         method: 'POST',
         headers: {
@@ -61,6 +68,7 @@ const run = async () => {
         body: JSON.stringify({
             'api_key': process.env.BUGLE_API_KEY,
             'content': output,
+            'image': image,
         })
     })
 

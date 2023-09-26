@@ -12,6 +12,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "deepai": "^1.0.23",
     "dotenv": "^16.3.1",
     "tracery-grammar": "^2.7.4"
   }
