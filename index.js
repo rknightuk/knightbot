@@ -10,6 +10,12 @@ const run = async () => {
         return
     }
 
+    if (botKey === 'remakes')
+    {
+        console.log('❌ Remakes must be run with node remakes.js')
+        return
+    }
+
     const botPath = `./bots/${botKey}.json`
     const previousPath = `./bots/${botKey}.previous`
 
@@ -34,7 +40,7 @@ const run = async () => {
 
     console.log(`⚙️ Running bot for ${botData.name}`)
  
-    var grammar = tracery.createGrammar(botData.grammar)
+    var grammar = tracery.createGrammar(botData.grammer)
     
     grammar.addModifiers(tracery.baseEngModifiers) 
     

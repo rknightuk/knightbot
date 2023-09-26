@@ -1,0 +1,5957 @@
+{
+    "name": "Bad Movie Remakes",
+    "username": "movieremakes",
+    "url": "https://bugle.lol/@movieremakes",
+    "description": "Mashup bot \"remaking\" top rated movies with popular actors from the last decade",
+    "data": {
+        "movies": [
+            {
+                "title": "The Karate Kid",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "Daniel LaRusso",
+                    "gender": 2
+                },
+                {
+                    "character": "Mr. Miyagi",
+                    "gender": 2
+                },
+                {
+                    "character": "Ali Mills",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Magnificent Seven",
+                "year": "1960",
+                "characters": [
+                {
+                    "character": "Chris Adams",
+                    "gender": 2
+                },
+                {
+                    "character": "Calvera",
+                    "gender": 2
+                },
+                {
+                    "character": "Vin",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Primal Fear",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "Martin Vail",
+                    "gender": 2
+                },
+                {
+                    "character": "Janet Venable",
+                    "gender": 1
+                },
+                {
+                    "character": "Aaron",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Ace Ventura: When Nature Calls",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Ace Ventura",
+                    "gender": 2
+                },
+                {
+                    "character": "Fulton Greenwall",
+                    "gender": 2
+                },
+                {
+                    "character": "Vincent Cadby",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Pig Keeper's Daughter",
+                "year": "1972",
+                "characters": [
+                {
+                    "character": "Moonbeam / Daughter",
+                    "gender": 0
+                },
+                {
+                    "character": "Pretty Patty / Daughter (as Patty Smith)",
+                    "gender": 1
+                },
+                {
+                    "character": "Mrs. Swyner / Wife",
+                    "gender": 0
+                }
+                ]
+            },
+            {
+                "title": "Ferris Bueller's Day Off",
+                "year": "1986",
+                "characters": [
+                {
+                    "character": "Ferris Bueller",
+                    "gender": 2
+                },
+                {
+                    "character": "Cameron Frye",
+                    "gender": 2
+                },
+                {
+                    "character": "Sloane Peterson",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Thunderball",
+                "year": "1965",
+                "characters": [
+                {
+                    "character": "James Bond",
+                    "gender": 2
+                },
+                {
+                    "character": "Dominique 'Domino' Derval",
+                    "gender": 1
+                },
+                {
+                    "character": "Emilio Largo",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "True Grit",
+                "year": "1969",
+                "characters": [
+                {
+                    "character": "Reuben J. \"Rooster\" Cogburn",
+                    "gender": 2
+                },
+                {
+                    "character": "\"La Boeuf\"",
+                    "gender": 2
+                },
+                {
+                    "character": "Mattie Ross",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Mystic Pizza",
+                "year": "1988",
+                "characters": [
+                {
+                    "character": "Kat Arujo",
+                    "gender": 1
+                },
+                {
+                    "character": "Daisy Arujo",
+                    "gender": 1
+                },
+                {
+                    "character": "Jojo",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Notting Hill",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Anna Scott",
+                    "gender": 1
+                },
+                {
+                    "character": "William Thacker",
+                    "gender": 2
+                },
+                {
+                    "character": "Bella",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Ghostbusters II",
+                "year": "1989",
+                "characters": [
+                {
+                    "character": "Dr. Peter Venkman",
+                    "gender": 2
+                },
+                {
+                    "character": "Dr. Raymond Stantz",
+                    "gender": 2
+                },
+                {
+                    "character": "Dana Barrett",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Jurassic Park",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "Grant",
+                    "gender": 2
+                },
+                {
+                    "character": "Ellie",
+                    "gender": 1
+                },
+                {
+                    "character": "Malcolm",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Clue",
+                "year": "1985",
+                "characters": [
+                {
+                    "character": "Wadsworth",
+                    "gender": 2
+                },
+                {
+                    "character": "Mrs. Peacock",
+                    "gender": 1
+                },
+                {
+                    "character": "Mrs. White",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Full Metal Jacket",
+                "year": "1987",
+                "characters": [
+                {
+                    "character": "Pvt. Joker",
+                    "gender": 2
+                },
+                {
+                    "character": "Animal Mother",
+                    "gender": 2
+                },
+                {
+                    "character": "Pvt. Pyle",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "From Dusk Till Dawn",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "Seth Gecko",
+                    "gender": 2
+                },
+                {
+                    "character": "Richard Gecko",
+                    "gender": 2
+                },
+                {
+                    "character": "Jacob Fuller",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Halloween: The Curse of Michael Myers",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Dr. Sam Loomis",
+                    "gender": 2
+                },
+                {
+                    "character": "Tommy Doyle",
+                    "gender": 2
+                },
+                {
+                    "character": "Kara Strode",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Trading Places",
+                "year": "1983",
+                "characters": [
+                {
+                    "character": "Louis Winthorpe III",
+                    "gender": 2
+                },
+                {
+                    "character": "Billy Ray Valentine",
+                    "gender": 2
+                },
+                {
+                    "character": "Randolph Duke",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Beverly Hills Cop II",
+                "year": "1987",
+                "characters": [
+                {
+                    "character": "Det. Axel Foley",
+                    "gender": 2
+                },
+                {
+                    "character": "Det. William 'Billy' Rosewood",
+                    "gender": 2
+                },
+                {
+                    "character": "Det. Sgt. John Taggart",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Sleepers",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "Sean Nokes",
+                    "gender": 2
+                },
+                {
+                    "character": "Father Bobby",
+                    "gender": 2
+                },
+                {
+                    "character": "Danny Snyder",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Godzilla",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Dr. Niko Tatopoulos",
+                    "gender": 2
+                },
+                {
+                    "character": "Philippe Roaché",
+                    "gender": 2
+                },
+                {
+                    "character": "Audrey Timmonds",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Austin Powers: The Spy Who Shagged Me",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Austin Powers / Dr. Evil / Fat Bastard",
+                    "gender": 2
+                },
+                {
+                    "character": "Felicity Shagwell",
+                    "gender": 1
+                },
+                {
+                    "character": "Basil Exposition",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Universal Soldier",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "Luc Deveraux / GR44",
+                    "gender": 2
+                },
+                {
+                    "character": "Andrew Scott / GR13",
+                    "gender": 2
+                },
+                {
+                    "character": "Veronica Roberts",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Carrie",
+                "year": "1976",
+                "characters": [
+                {
+                    "character": "Carrie White",
+                    "gender": 1
+                },
+                {
+                    "character": "Margaret White",
+                    "gender": 1
+                },
+                {
+                    "character": "Sue Snell",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Mrs. Doubtfire",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "Daniel Hillard / Mrs. Doubtfire",
+                    "gender": 2
+                },
+                {
+                    "character": "Miranda Hillard",
+                    "gender": 1
+                },
+                {
+                    "character": "Stu",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "American History X",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Derek",
+                    "gender": 2
+                },
+                {
+                    "character": "Danny",
+                    "gender": 2
+                },
+                {
+                    "character": "Doris",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Die Hard 2",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "John McClane",
+                    "gender": 2
+                },
+                {
+                    "character": "Holly McClane",
+                    "gender": 1
+                },
+                {
+                    "character": "Stuart",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Pet Sematary",
+                "year": "1989",
+                "characters": [
+                {
+                    "character": "Louis Creed",
+                    "gender": 2
+                },
+                {
+                    "character": "Jud Crandall",
+                    "gender": 2
+                },
+                {
+                    "character": "Rachel Creed",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Amityville Horror",
+                "year": "1979",
+                "characters": [
+                {
+                    "character": "George Lutz",
+                    "gender": 2
+                },
+                {
+                    "character": "Kathy Lutz",
+                    "gender": 1
+                },
+                {
+                    "character": "Father Delaney",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Rain Man",
+                "year": "1988",
+                "characters": [
+                {
+                    "character": "Raymond Babbitt",
+                    "gender": 2
+                },
+                {
+                    "character": "Charlie Babbitt",
+                    "gender": 2
+                },
+                {
+                    "character": "Susanna",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Anaconda",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Terri Flores",
+                    "gender": 1
+                },
+                {
+                    "character": "Paul Serone",
+                    "gender": 2
+                },
+                {
+                    "character": "Denise Kalberg",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Forbidden Zone",
+                "year": "1980",
+                "characters": [
+                {
+                    "character": "King Fausto of the Sixth Dimension",
+                    "gender": 2
+                },
+                {
+                    "character": "Queen Doris of the Sixth Dimension",
+                    "gender": 1
+                },
+                {
+                    "character": "Squeezit & René Henderson",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Gone with the Wind",
+                "year": "1939",
+                "characters": [
+                {
+                    "character": "Scarlett O'Hara",
+                    "gender": 1
+                },
+                {
+                    "character": "Rhett Butler",
+                    "gender": 2
+                },
+                {
+                    "character": "Melanie Hamilton",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Deep Impact",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Capt. Spurgeon 'Fish' Tanner",
+                    "gender": 2
+                },
+                {
+                    "character": "Jenny Lerner",
+                    "gender": 1
+                },
+                {
+                    "character": "Leo Biederman",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "A Clockwork Orange",
+                "year": "1971",
+                "characters": [
+                {
+                    "character": "Alex DeLarge",
+                    "gender": 2
+                },
+                {
+                    "character": "Frank Alexander",
+                    "gender": 2
+                },
+                {
+                    "character": "Mary Alexander",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Stepfather 3",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "Keith Grant / The Stepfather",
+                    "gender": 2
+                },
+                {
+                    "character": "Christine Ann Davis",
+                    "gender": 1
+                },
+                {
+                    "character": "Jennifer Ashley",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Weird Science",
+                "year": "1985",
+                "characters": [
+                {
+                    "character": "Gary Wallace",
+                    "gender": 2
+                },
+                {
+                    "character": "Lisa",
+                    "gender": 1
+                },
+                {
+                    "character": "Wyatt Donnelly",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Death Wish",
+                "year": "1974",
+                "characters": [
+                {
+                    "character": "Paul Kersey",
+                    "gender": 2
+                },
+                {
+                    "character": "Joanna Kersey",
+                    "gender": 1
+                },
+                {
+                    "character": "Frank Ochoa",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Poltergeist",
+                "year": "1982",
+                "characters": [
+                {
+                    "character": "Steve Freeling",
+                    "gender": 2
+                },
+                {
+                    "character": "Diane Freeling",
+                    "gender": 1
+                },
+                {
+                    "character": "Dr. Lesh",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Death Wish 4: The Crackdown",
+                "year": "1987",
+                "characters": [
+                {
+                    "character": "Paul Kersey",
+                    "gender": 2
+                },
+                {
+                    "character": "Karen Sheldon",
+                    "gender": 1
+                },
+                {
+                    "character": "Nathan White",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Friday the 13th: The Final Chapter",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "Samantha",
+                    "gender": 1
+                },
+                {
+                    "character": "Trish Jarvis",
+                    "gender": 1
+                },
+                {
+                    "character": "Mrs. Jarvis",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Batman & Robin",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Bruce Wayne / Batman",
+                    "gender": 2
+                },
+                {
+                    "character": "Dick Grayson / Robin",
+                    "gender": 2
+                },
+                {
+                    "character": "Dr. Victor Fries / Mr. Freeze",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Fast Times at Ridgemont High",
+                "year": "1982",
+                "characters": [
+                {
+                    "character": "Jeff Spicoli",
+                    "gender": 2
+                },
+                {
+                    "character": "Stacy Hamilton",
+                    "gender": 1
+                },
+                {
+                    "character": "Brad Hamilton",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Mad Max 2",
+                "year": "1981",
+                "characters": [
+                {
+                    "character": "Max Rockatansky",
+                    "gender": 2
+                },
+                {
+                    "character": "The Gyro Captain",
+                    "gender": 2
+                },
+                {
+                    "character": "Pappagallo",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Species",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Sil",
+                    "gender": 1
+                },
+                {
+                    "character": "Xavier Fitch",
+                    "gender": 2
+                },
+                {
+                    "character": "Preston Lennox",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "From Russia with Love",
+                "year": "1963",
+                "characters": [
+                {
+                    "character": "James Bond",
+                    "gender": 2
+                },
+                {
+                    "character": "Tatiana 'Tanja' Romanova",
+                    "gender": 1
+                },
+                {
+                    "character": "Ali Kerim Bey",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Mortal Kombat: Annihilation",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Liu Kang",
+                    "gender": 2
+                },
+                {
+                    "character": "Kitana",
+                    "gender": 1
+                },
+                {
+                    "character": "Raiden",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Usual Suspects",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Dean Keaton",
+                    "gender": 2
+                },
+                {
+                    "character": "Roger ‘Verbal’ Kint",
+                    "gender": 2
+                },
+                {
+                    "character": "Michael McManus",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Sneakers",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "College-Aged Cosmo",
+                    "gender": 2
+                },
+                {
+                    "character": "College-Aged Bishop",
+                    "gender": 2
+                },
+                {
+                    "character": "Bishop",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Robin Hood: Prince of Thieves",
+                "year": "1991",
+                "characters": [
+                {
+                    "character": "Robin of Locksley / Robin Hood",
+                    "gender": 2
+                },
+                {
+                    "character": "Azeem",
+                    "gender": 2
+                },
+                {
+                    "character": "Marian",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Big Lebowski",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Jeffrey 'The Dude' Lebowski",
+                    "gender": 2
+                },
+                {
+                    "character": "Walter Sobchak",
+                    "gender": 2
+                },
+                {
+                    "character": "Theodore Donald 'Donny' Kerabatsos",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Friday the 13th Part 2",
+                "year": "1981",
+                "characters": [
+                {
+                    "character": "Ginny Field",
+                    "gender": 1
+                },
+                {
+                    "character": "Ted",
+                    "gender": 2
+                },
+                {
+                    "character": "Terry",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Enter the Dragon",
+                "year": "1973",
+                "characters": [
+                {
+                    "character": "Lee",
+                    "gender": 2
+                },
+                {
+                    "character": "Roper",
+                    "gender": 2
+                },
+                {
+                    "character": "Williams",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Mars Attacks!",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "President Dale / Art Land",
+                    "gender": 2
+                },
+                {
+                    "character": "Marsha Dale",
+                    "gender": 1
+                },
+                {
+                    "character": "Barbara Land",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Death Wish 3",
+                "year": "1985",
+                "characters": [
+                {
+                    "character": "Paul Kersey",
+                    "gender": 2
+                },
+                {
+                    "character": "Kathryn Davis",
+                    "gender": 1
+                },
+                {
+                    "character": "Insp. Richard S. Shriker",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "True Lies",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Harry Tasker",
+                    "gender": 2
+                },
+                {
+                    "character": "Helen Tasker",
+                    "gender": 1
+                },
+                {
+                    "character": "Albert Gibson",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Lock Up",
+                "year": "1989",
+                "characters": [
+                {
+                    "character": "Frank Leone",
+                    "gender": 2
+                },
+                {
+                    "character": "Warden Drumgoole",
+                    "gender": 2
+                },
+                {
+                    "character": "Captain Meissner",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Fly",
+                "year": "1986",
+                "characters": [
+                {
+                    "character": "Seth Brundle",
+                    "gender": 2
+                },
+                {
+                    "character": "Veronica Quaife",
+                    "gender": 1
+                },
+                {
+                    "character": "Stathis Borans",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "One Flew Over the Cuckoo's Nest",
+                "year": "1975",
+                "characters": [
+                {
+                    "character": "Randle Patrick McMurphy",
+                    "gender": 2
+                },
+                {
+                    "character": "Nurse Mildred Ratched",
+                    "gender": 1
+                },
+                {
+                    "character": "Martini",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Chinatown",
+                "year": "1974",
+                "characters": [
+                {
+                    "character": "J.J. 'Jake' Gittes",
+                    "gender": 2
+                },
+                {
+                    "character": "Evelyn Cross Mulwray",
+                    "gender": 1
+                },
+                {
+                    "character": "Noah Cross",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Clueless",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Cher Horowitz",
+                    "gender": 1
+                },
+                {
+                    "character": "Dionne Davenport",
+                    "gender": 1
+                },
+                {
+                    "character": "Tai Frasier",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Highlander",
+                "year": "1986",
+                "characters": [
+                {
+                    "character": "Connor 'The Highlander' MacLeod",
+                    "gender": 2
+                },
+                {
+                    "character": "Brenda J. Wyatt",
+                    "gender": 1
+                },
+                {
+                    "character": "Victor 'The Kurgan' Kruger",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Commando",
+                "year": "1985",
+                "characters": [
+                {
+                    "character": "John Matrix",
+                    "gender": 2
+                },
+                {
+                    "character": "Cindy",
+                    "gender": 1
+                },
+                {
+                    "character": "Arius",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Great Escape",
+                "year": "1963",
+                "characters": [
+                {
+                    "character": "Hilts 'The Cooler King'",
+                    "gender": 2
+                },
+                {
+                    "character": "Hendley 'The Scrounger'",
+                    "gender": 2
+                },
+                {
+                    "character": "Bartlett 'Big X'",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Halloween 4: The Return of Michael Myers",
+                "year": "1988",
+                "characters": [
+                {
+                    "character": "Dr. Sam Loomis",
+                    "gender": 2
+                },
+                {
+                    "character": "Jamie Lloyd",
+                    "gender": 1
+                },
+                {
+                    "character": "Rachel Carruthers",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Freddy's Dead: The Final Nightmare",
+                "year": "1991",
+                "characters": [
+                {
+                    "character": "Freddy Krueger",
+                    "gender": 2
+                },
+                {
+                    "character": "Maggie Burroughs",
+                    "gender": 1
+                },
+                {
+                    "character": "John Doe",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Reservoir Dogs",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "Mr. White / Larry Dimmick",
+                    "gender": 2
+                },
+                {
+                    "character": "Mr. Orange / Freddy Newandyke",
+                    "gender": 2
+                },
+                {
+                    "character": "Mr. Blonde / Vic Vega",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Casper",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Kathleen 'Kat' Harvey",
+                    "gender": 1
+                },
+                {
+                    "character": "Dr. James Harvey",
+                    "gender": 2
+                },
+                {
+                    "character": "Casper (voice)",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Warriors",
+                "year": "1979",
+                "characters": [
+                {
+                    "character": "Swan",
+                    "gender": 2
+                },
+                {
+                    "character": "Ajax",
+                    "gender": 2
+                },
+                {
+                    "character": "Luther",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "It's a Mad, Mad, Mad, Mad World",
+                "year": "1963",
+                "characters": [
+                {
+                    "character": "C. G. Culpepper",
+                    "gender": 2
+                },
+                {
+                    "character": "J. Russell Finch",
+                    "gender": 2
+                },
+                {
+                    "character": "Melville Crump",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Sister Act",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "Deloris Van Cartier/Sister Mary Clarence",
+                    "gender": 1
+                },
+                {
+                    "character": "Mother Superior",
+                    "gender": 1
+                },
+                {
+                    "character": "Sister Mary Patrick",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "National Lampoon's Christmas Vacation",
+                "year": "1989",
+                "characters": [
+                {
+                    "character": "Clark Griswold",
+                    "gender": 2
+                },
+                {
+                    "character": "Ellen Griswold",
+                    "gender": 1
+                },
+                {
+                    "character": "Audrey Griswold",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "It's a Wonderful Life",
+                "year": "1946",
+                "characters": [
+                {
+                    "character": "George Bailey",
+                    "gender": 2
+                },
+                {
+                    "character": "Mary Hatch",
+                    "gender": 1
+                },
+                {
+                    "character": "Mr. Potter",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Tremors",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Valentine McKee",
+                    "gender": 2
+                },
+                {
+                    "character": "Earl Bassett",
+                    "gender": 2
+                },
+                {
+                    "character": "Rhonda LeBeck",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Stargate",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Jack O'Neil",
+                    "gender": 2
+                },
+                {
+                    "character": "Daniel Jackson",
+                    "gender": 2
+                },
+                {
+                    "character": "Ra",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Libido",
+                "year": "1973",
+                "characters": [
+                {
+                    "character": "Penelope (segment \"The Husband\")",
+                    "gender": 1
+                },
+                {
+                    "character": "Jonathon (segment \"The Husband\")",
+                    "gender": 0
+                },
+                {
+                    "character": "Harold (segment \"The Husband\")",
+                    "gender": 0
+                }
+                ]
+            },
+            {
+                "title": "Judge Dredd",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Judge Joseph Dredd",
+                    "gender": 2
+                },
+                {
+                    "character": "Judge Hershey",
+                    "gender": 1
+                },
+                {
+                    "character": "Rico",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Piranha",
+                "year": "1978",
+                "characters": [
+                {
+                    "character": "Paul Grogan",
+                    "gender": 2
+                },
+                {
+                    "character": "Maggie McKeown",
+                    "gender": 1
+                },
+                {
+                    "character": "Dr. Robert Hoak",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Ghostbusters",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "Dr. Peter Venkman",
+                    "gender": 2
+                },
+                {
+                    "character": "Dr. Raymond Stantz",
+                    "gender": 2
+                },
+                {
+                    "character": "Dana Barrett",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Basic Instinct",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "Det. Nick Curran",
+                    "gender": 2
+                },
+                {
+                    "character": "Catherine Tramell",
+                    "gender": 1
+                },
+                {
+                    "character": "Gus Moran",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Superman IV: The Quest for Peace",
+                "year": "1987",
+                "characters": [
+                {
+                    "character": "Superman / Clark Kent",
+                    "gender": 2
+                },
+                {
+                    "character": "Lois Lane",
+                    "gender": 1
+                },
+                {
+                    "character": "Lex Luthor",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Empire Strikes Back",
+                "year": "1980",
+                "characters": [
+                {
+                    "character": "Luke Skywalker",
+                    "gender": 2
+                },
+                {
+                    "character": "Han Solo",
+                    "gender": 2
+                },
+                {
+                    "character": "Princess Leia",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Dead Poets Society",
+                "year": "1989",
+                "characters": [
+                {
+                    "character": "John Keating",
+                    "gender": 2
+                },
+                {
+                    "character": "Todd Anderson",
+                    "gender": 2
+                },
+                {
+                    "character": "Neil Perry",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Texas Chain Saw Massacre",
+                "year": "1974",
+                "characters": [
+                {
+                    "character": "Sally Hardesty",
+                    "gender": 1
+                },
+                {
+                    "character": "Jerry Huberman",
+                    "gender": 2
+                },
+                {
+                    "character": "Franklin Hardesty",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Sixth Sense",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Malcolm Crowe",
+                    "gender": 2
+                },
+                {
+                    "character": "Cole Sear",
+                    "gender": 2
+                },
+                {
+                    "character": "Lynn Sear",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Jaws 3-D",
+                "year": "1983",
+                "characters": [
+                {
+                    "character": "Michael 'Mike' Brody",
+                    "gender": 2
+                },
+                {
+                    "character": "Kathryn Morgan",
+                    "gender": 1
+                },
+                {
+                    "character": "Philip FitzRoyce",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Bloodsport",
+                "year": "1988",
+                "characters": [
+                {
+                    "character": "Frank Dux",
+                    "gender": 2
+                },
+                {
+                    "character": "Chong Li",
+                    "gender": 2
+                },
+                {
+                    "character": "Ray Jackson",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Halloween 5: The Revenge of Michael Myers",
+                "year": "1989",
+                "characters": [
+                {
+                    "character": "Dr. Sam Loomis",
+                    "gender": 2
+                },
+                {
+                    "character": "Jamie Lloyd",
+                    "gender": 1
+                },
+                {
+                    "character": "Rachel Carruthers",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Dirty Dancing",
+                "year": "1987",
+                "characters": [
+                {
+                    "character": "Frances 'Baby' Houseman",
+                    "gender": 1
+                },
+                {
+                    "character": "Johnny Castle",
+                    "gender": 2
+                },
+                {
+                    "character": "Dr. Jake Houseman",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Apocalypse Now",
+                "year": "1979",
+                "characters": [
+                {
+                    "character": "Captain Benjamin Willard",
+                    "gender": 2
+                },
+                {
+                    "character": "Jay 'Chef' Hicks",
+                    "gender": 2
+                },
+                {
+                    "character": "Chief Phillips",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Mad Max",
+                "year": "1979",
+                "characters": [
+                {
+                    "character": "Max Rockatansky",
+                    "gender": 2
+                },
+                {
+                    "character": "Jessie Rockatansky",
+                    "gender": 1
+                },
+                {
+                    "character": "Toecutter",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Batman Returns",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "Bruce Wayne / Batman",
+                    "gender": 2
+                },
+                {
+                    "character": "Selina Kyle / Catwoman",
+                    "gender": 1
+                },
+                {
+                    "character": "Oswald Cobblepot / The Penguin",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Back to the Future Part III",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Marty McFly / Seamus McFly",
+                    "gender": 2
+                },
+                {
+                    "character": "Emmett Brown",
+                    "gender": 2
+                },
+                {
+                    "character": "Buford \"Mad Dog\" Tannen / Biff Tannen",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "E.T. the Extra-Terrestrial",
+                "year": "1982",
+                "characters": [
+                {
+                    "character": "Elliott",
+                    "gender": 2
+                },
+                {
+                    "character": "Gertie",
+                    "gender": 1
+                },
+                {
+                    "character": "Michael",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Rock",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "Dr. Stanley Goodspeed",
+                    "gender": 2
+                },
+                {
+                    "character": "John Patrick Mason",
+                    "gender": 2
+                },
+                {
+                    "character": "Brigadier General Francis X. Hummel, USMC",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Damage",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "Dr. Stephen Fleming",
+                    "gender": 2
+                },
+                {
+                    "character": "Anna Barton",
+                    "gender": 1
+                },
+                {
+                    "character": "Ingrid Fleming",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Midway",
+                "year": "1976",
+                "characters": [
+                {
+                    "character": "Capt. Matthew Garth",
+                    "gender": 2
+                },
+                {
+                    "character": "Adm. Chester W. Nimitz",
+                    "gender": 2
+                },
+                {
+                    "character": "Capt. Vinton Maddox",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "House",
+                "year": "1986",
+                "characters": [
+                {
+                    "character": "Roger Cobb",
+                    "gender": 2
+                },
+                {
+                    "character": "Harold Gorton",
+                    "gender": 2
+                },
+                {
+                    "character": "Big Ben",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Wicker Man",
+                "year": "1973",
+                "characters": [
+                {
+                    "character": "Sergeant Neil Howie",
+                    "gender": 2
+                },
+                {
+                    "character": "Lord Summerisle",
+                    "gender": 2
+                },
+                {
+                    "character": "Willow MacGreagor",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Fatal Attraction",
+                "year": "1987",
+                "characters": [
+                {
+                    "character": "Dan Gallagher",
+                    "gender": 2
+                },
+                {
+                    "character": "Alexandra \"Alex\" Forrest",
+                    "gender": 1
+                },
+                {
+                    "character": "Beth Gallagher",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Gremlins",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "Billy Peltzer",
+                    "gender": 2
+                },
+                {
+                    "character": "Kate Beringer",
+                    "gender": 1
+                },
+                {
+                    "character": "Randall Peltzer",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Good Will Hunting",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Will Hunting",
+                    "gender": 2
+                },
+                {
+                    "character": "Sean Maguire",
+                    "gender": 2
+                },
+                {
+                    "character": "Chuckie Sullivan",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Return of the Jedi",
+                "year": "1983",
+                "characters": [
+                {
+                    "character": "Luke Skywalker",
+                    "gender": 2
+                },
+                {
+                    "character": "Han Solo",
+                    "gender": 2
+                },
+                {
+                    "character": "Princess Leia",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "A Nightmare on Elm Street",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "Nancy Thompson",
+                    "gender": 1
+                },
+                {
+                    "character": "Lieutenant Donald Thompson",
+                    "gender": 2
+                },
+                {
+                    "character": "Marge Thompson",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Speed",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Jack Traven",
+                    "gender": 2
+                },
+                {
+                    "character": "Howard Payne",
+                    "gender": 2
+                },
+                {
+                    "character": "Annie Porter",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Ben-Hur",
+                "year": "1959",
+                "characters": [
+                {
+                    "character": "Judah Ben-Hur",
+                    "gender": 2
+                },
+                {
+                    "character": "Quintus Arrius",
+                    "gender": 2
+                },
+                {
+                    "character": "Esther",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Devil's Advocate",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Kevin Lomax",
+                    "gender": 2
+                },
+                {
+                    "character": "John Milton",
+                    "gender": 2
+                },
+                {
+                    "character": "Mary Ann Lomax",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Halloween II",
+                "year": "1981",
+                "characters": [
+                {
+                    "character": "Laurie Strode",
+                    "gender": 1
+                },
+                {
+                    "character": "Dr. Sam Loomis",
+                    "gender": 2
+                },
+                {
+                    "character": "Sheriff Leigh Brackett",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Exorcist II: The Heretic",
+                "year": "1977",
+                "characters": [
+                {
+                    "character": "Father Philip Lamont",
+                    "gender": 2
+                },
+                {
+                    "character": "Regan MacNeil",
+                    "gender": 1
+                },
+                {
+                    "character": "Dr. Gene Tuskin",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Deep Throat Part II",
+                "year": "1974",
+                "characters": [
+                {
+                    "character": "Nurse Lovelace",
+                    "gender": 1
+                },
+                {
+                    "character": "Doctor Jayson",
+                    "gender": 2
+                },
+                {
+                    "character": "Dilbert Lamb",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Con Air",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Cameron Poe",
+                    "gender": 2
+                },
+                {
+                    "character": "Cyrus \"The Virus\" Grissom",
+                    "gender": 2
+                },
+                {
+                    "character": "Agent Vince Larkin",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Dune",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "Paul Atreides",
+                    "gender": 2
+                },
+                {
+                    "character": "Lady Jessica",
+                    "gender": 1
+                },
+                {
+                    "character": "Gurney Halleck",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Teen Wolf",
+                "year": "1985",
+                "characters": [
+                {
+                    "character": "Scott Howard",
+                    "gender": 2
+                },
+                {
+                    "character": "Harold Howard",
+                    "gender": 2
+                },
+                {
+                    "character": "Lisa 'Boof' Marconi",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Conan the Barbarian",
+                "year": "1982",
+                "characters": [
+                {
+                    "character": "Conan",
+                    "gender": 2
+                },
+                {
+                    "character": "Thulsa Doom",
+                    "gender": 2
+                },
+                {
+                    "character": "King Osric",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Deuce Bigalow: Male Gigolo",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Deuce Bigalow",
+                    "gender": 2
+                },
+                {
+                    "character": "Det. Chuck Fowler",
+                    "gender": 2
+                },
+                {
+                    "character": "Tiberius Jefferson \"T.J.\" Hicks",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Indecent Proposal",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "John Gage",
+                    "gender": 2
+                },
+                {
+                    "character": "Diana Murphy",
+                    "gender": 1
+                },
+                {
+                    "character": "David Murphy",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Waterworld",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Mariner",
+                    "gender": 2
+                },
+                {
+                    "character": "Deacon",
+                    "gender": 2
+                },
+                {
+                    "character": "Helen",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Jason Goes to Hell: The Final Friday",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "Jason Voorhees / Security Guard #2 / Freddy Krueger's arm",
+                    "gender": 2
+                },
+                {
+                    "character": "Steven Freeman",
+                    "gender": 2
+                },
+                {
+                    "character": "Jessica Kimble",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Airplane!",
+                "year": "1980",
+                "characters": [
+                {
+                    "character": "Ted Striker",
+                    "gender": 2
+                },
+                {
+                    "character": "Elaine Dickinson",
+                    "gender": 1
+                },
+                {
+                    "character": "Dr. Rumack",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Once Upon a Time in America",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "David 'Noodles' Aaronson",
+                    "gender": 2
+                },
+                {
+                    "character": "Maximilian 'Max' Bercovicz",
+                    "gender": 2
+                },
+                {
+                    "character": "Deborah Gelly",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Interview with the Vampire",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Lestat",
+                    "gender": 2
+                },
+                {
+                    "character": "Louis",
+                    "gender": 2
+                },
+                {
+                    "character": "Armand",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Back to the Future Part II",
+                "year": "1989",
+                "characters": [
+                {
+                    "character": "Marty McFly / Marty McFly Jr. / Marlene McFly",
+                    "gender": 2
+                },
+                {
+                    "character": "Emmett Brown",
+                    "gender": 2
+                },
+                {
+                    "character": "Lorraine McFly",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+                "year": "1985",
+                "characters": [
+                {
+                    "character": "Freddy Krueger",
+                    "gender": 2
+                },
+                {
+                    "character": "Jesse Walsh",
+                    "gender": 2
+                },
+                {
+                    "character": "Lisa Webber",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Naked Gun 33⅓: The Final Insult",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Lt. Frank Drebin",
+                    "gender": 2
+                },
+                {
+                    "character": "Jane Spencer",
+                    "gender": 1
+                },
+                {
+                    "character": "Ed Hocken",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Star Wars: Episode I - The Phantom Menace",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Qui-Gon Jinn",
+                    "gender": 2
+                },
+                {
+                    "character": "Obi-Wan Kenobi",
+                    "gender": 2
+                },
+                {
+                    "character": "Padmé Amidala",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Braveheart",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "William Wallace",
+                    "gender": 2
+                },
+                {
+                    "character": "Murron MacClannough",
+                    "gender": 1
+                },
+                {
+                    "character": "Princess Isabelle",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Coming to America",
+                "year": "1988",
+                "characters": [
+                {
+                    "character": "Prince Akeem / Clarence / Randy Watson / Saul",
+                    "gender": 2
+                },
+                {
+                    "character": "Semmi / Extremely Ugly Girl / Morris / Reverend Brown",
+                    "gender": 2
+                },
+                {
+                    "character": "King Jaffe Joffer",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Teenage Mutant Ninja Turtles III",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "Casey Jones / Whit",
+                    "gender": 2
+                },
+                {
+                    "character": "April O'Neil",
+                    "gender": 1
+                },
+                {
+                    "character": "Walker",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Goonies",
+                "year": "1985",
+                "characters": [
+                {
+                    "character": "Mikey Walsh",
+                    "gender": 2
+                },
+                {
+                    "character": "Brand Walsh",
+                    "gender": 2
+                },
+                {
+                    "character": "Lawrence \"Chunk\" Cohen",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "National Lampoon's Vacation",
+                "year": "1983",
+                "characters": [
+                {
+                    "character": "Clark Griswold",
+                    "gender": 2
+                },
+                {
+                    "character": "Ellen Griswold",
+                    "gender": 1
+                },
+                {
+                    "character": "Rusty Griswold",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Point Break",
+                "year": "1991",
+                "characters": [
+                {
+                    "character": "Bodhi",
+                    "gender": 2
+                },
+                {
+                    "character": "Johnny Utah",
+                    "gender": 2
+                },
+                {
+                    "character": "Angelo Pappas",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Beetlejuice",
+                "year": "1988",
+                "characters": [
+                {
+                    "character": "Adam Maitland",
+                    "gender": 2
+                },
+                {
+                    "character": "Barbara Maitland",
+                    "gender": 1
+                },
+                {
+                    "character": "Charles Deetz",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Independence Day",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "Capt. Steven Hiller",
+                    "gender": 2
+                },
+                {
+                    "character": "President Thomas J. Whitmore",
+                    "gender": 2
+                },
+                {
+                    "character": "David Levinson",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Naked Gun: From the Files of Police Squad!",
+                "year": "1988",
+                "characters": [
+                {
+                    "character": "Lt. Frank Drebin",
+                    "gender": 2
+                },
+                {
+                    "character": "Jane Spencer",
+                    "gender": 1
+                },
+                {
+                    "character": "Vincent Ludwig",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Stuart Little",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Stuart Little (voice)",
+                    "gender": 2
+                },
+                {
+                    "character": "Mrs. Little",
+                    "gender": 1
+                },
+                {
+                    "character": "Mr. Little",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Bad Boys",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Mike Lowrey",
+                    "gender": 2
+                },
+                {
+                    "character": "Marcus Burnett",
+                    "gender": 2
+                },
+                {
+                    "character": "Julie Mott",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Addams Family Values",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "Debbie Jellinsky",
+                    "gender": 1
+                },
+                {
+                    "character": "Gomez Addams",
+                    "gender": 2
+                },
+                {
+                    "character": "Uncle Fester Addams",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Superman",
+                "year": "1978",
+                "characters": [
+                {
+                    "character": "Clark Kent / Superman",
+                    "gender": 2
+                },
+                {
+                    "character": "Lois Lane",
+                    "gender": 1
+                },
+                {
+                    "character": "Lex Luthor",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Showgirls",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Nomi Malone",
+                    "gender": 1
+                },
+                {
+                    "character": "Cristal Connors",
+                    "gender": 1
+                },
+                {
+                    "character": "Zack Carey",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Dances with Wolves",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Lieutenant Dunbar",
+                    "gender": 2
+                },
+                {
+                    "character": "Stands With A Fist",
+                    "gender": 1
+                },
+                {
+                    "character": "Kicking Bird",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Mask of Zorro",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Alejandro Murrieta / Zorro",
+                    "gender": 2
+                },
+                {
+                    "character": "Don Diego de la Vega / Zorro",
+                    "gender": 2
+                },
+                {
+                    "character": "Elena Montero / Elena Murrieta",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Die Hard",
+                "year": "1988",
+                "characters": [
+                {
+                    "character": "John McClane",
+                    "gender": 2
+                },
+                {
+                    "character": "Hans Gruber",
+                    "gender": 2
+                },
+                {
+                    "character": "Karl",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Twelve Monkeys",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "James Cole",
+                    "gender": 2
+                },
+                {
+                    "character": "Dr. Kathryn Railly",
+                    "gender": 1
+                },
+                {
+                    "character": "Jeffrey Goines",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Demolition Man",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "John Spartan",
+                    "gender": 2
+                },
+                {
+                    "character": "Simon Phoenix",
+                    "gender": 2
+                },
+                {
+                    "character": "Lt. Lenina Huxley",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Planet of the Apes",
+                "year": "1968",
+                "characters": [
+                {
+                    "character": "George Taylor",
+                    "gender": 2
+                },
+                {
+                    "character": "Cornelius",
+                    "gender": 2
+                },
+                {
+                    "character": "Zira",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Police Academy",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "Carey Mahoney",
+                    "gender": 2
+                },
+                {
+                    "character": "Karen Thompson",
+                    "gender": 1
+                },
+                {
+                    "character": "Lt. Harris",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "2001: A Space Odyssey",
+                "year": "1968",
+                "characters": [
+                {
+                    "character": "Dr. David Bowman",
+                    "gender": 2
+                },
+                {
+                    "character": "Dr. Frank Poole",
+                    "gender": 2
+                },
+                {
+                    "character": "Dr. Heywood Floyd",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Spartacus",
+                "year": "1960",
+                "characters": [
+                {
+                    "character": "Spartacus",
+                    "gender": 2
+                },
+                {
+                    "character": "Marcus Licinius Crassus",
+                    "gender": 2
+                },
+                {
+                    "character": "Varinia",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Child's Play 3",
+                "year": "1991",
+                "characters": [
+                {
+                    "character": "Andy Barclay",
+                    "gender": 2
+                },
+                {
+                    "character": "Kristen De Silva",
+                    "gender": 1
+                },
+                {
+                    "character": "Ronald Tyler",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Addams Family",
+                "year": "1991",
+                "characters": [
+                {
+                    "character": "Gomez Addams",
+                    "gender": 2
+                },
+                {
+                    "character": "Morticia Addams",
+                    "gender": 1
+                },
+                {
+                    "character": "Uncle Fester",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The NeverEnding Story",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "Atreyu",
+                    "gender": 2
+                },
+                {
+                    "character": "Bastian",
+                    "gender": 2
+                },
+                {
+                    "character": "The Childlike Empress",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Rocky V",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Robert \"Rocky\" Balboa",
+                    "gender": 2
+                },
+                {
+                    "character": "Adrianna \"Adrian\" Balboa",
+                    "gender": 1
+                },
+                {
+                    "character": "Paulie Pennino",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Mannequin",
+                "year": "1987",
+                "characters": [
+                {
+                    "character": "Jonathan Switcher",
+                    "gender": 2
+                },
+                {
+                    "character": "Ema 'Emmy' Hesire",
+                    "gender": 1
+                },
+                {
+                    "character": "Claire Prince Timkin",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "12 Angry Men",
+                "year": "1957",
+                "characters": [
+                {
+                    "character": "Juror 1",
+                    "gender": 2
+                },
+                {
+                    "character": "Juror 2",
+                    "gender": 2
+                },
+                {
+                    "character": "Juror 3",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Armageddon",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Harry S. Stamper",
+                    "gender": 2
+                },
+                {
+                    "character": "Dan Truman",
+                    "gender": 2
+                },
+                {
+                    "character": "A.J. Frost",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Crow",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Eric Draven",
+                    "gender": 2
+                },
+                {
+                    "character": "Sarah",
+                    "gender": 1
+                },
+                {
+                    "character": "Sergeant Albrecht",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Child's Play 2",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Andy Barclay",
+                    "gender": 2
+                },
+                {
+                    "character": "Chucky (voice)",
+                    "gender": 2
+                },
+                {
+                    "character": "Kyle",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Ghost",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Sam Wheat",
+                    "gender": 2
+                },
+                {
+                    "character": "Molly Jensen",
+                    "gender": 1
+                },
+                {
+                    "character": "Oda Mae Brown",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Exorcist III",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Lt. William 'Bill' Kinderman",
+                    "gender": 2
+                },
+                {
+                    "character": "Father Joseph Kevin Dyer",
+                    "gender": 2
+                },
+                {
+                    "character": "James Venamun / The Gemini Killer",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Friday the 13th",
+                "year": "1980",
+                "characters": [
+                {
+                    "character": "Marcie",
+                    "gender": 1
+                },
+                {
+                    "character": "Brenda",
+                    "gender": 1
+                },
+                {
+                    "character": "Bill",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Sleepy Hollow",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Ichabod Crane",
+                    "gender": 2
+                },
+                {
+                    "character": "Katrina Van Tassel",
+                    "gender": 1
+                },
+                {
+                    "character": "Lady Mary Van Tassel / Crone Witch",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Die Hard: With a Vengeance",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "John McClane",
+                    "gender": 2
+                },
+                {
+                    "character": "Simon",
+                    "gender": 2
+                },
+                {
+                    "character": "Zeus Carver",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Indiana Jones and the Temple of Doom",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "Indiana Jones",
+                    "gender": 2
+                },
+                {
+                    "character": "Willie Scott",
+                    "gender": 1
+                },
+                {
+                    "character": "Short Round",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Psycho",
+                "year": "1960",
+                "characters": [
+                {
+                    "character": "Norman Bates",
+                    "gender": 2
+                },
+                {
+                    "character": "Marion Crane",
+                    "gender": 1
+                },
+                {
+                    "character": "Lila Crane",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Grease",
+                "year": "1978",
+                "characters": [
+                {
+                    "character": "Danny Zuko",
+                    "gender": 2
+                },
+                {
+                    "character": "Sandy Olsson",
+                    "gender": 1
+                },
+                {
+                    "character": "Betty Rizzo",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Shining",
+                "year": "1980",
+                "characters": [
+                {
+                    "character": "Jack Torrance",
+                    "gender": 2
+                },
+                {
+                    "character": "Wendy Torrance",
+                    "gender": 1
+                },
+                {
+                    "character": "Dick Hallorann",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Rocky III",
+                "year": "1982",
+                "characters": [
+                {
+                    "character": "Robert \"Rocky\" Balboa",
+                    "gender": 2
+                },
+                {
+                    "character": "Adrianna \"Adrian\" Balboa",
+                    "gender": 1
+                },
+                {
+                    "character": "Paulie Pennino",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Evil Dead",
+                "year": "1981",
+                "characters": [
+                {
+                    "character": "Ashley 'Ash' J. Williams",
+                    "gender": 2
+                },
+                {
+                    "character": "Cheryl",
+                    "gender": 1
+                },
+                {
+                    "character": "Scott",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Edward Scissorhands",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Edward Scissorhands",
+                    "gender": 2
+                },
+                {
+                    "character": "Kim",
+                    "gender": 1
+                },
+                {
+                    "character": "Peg",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "A Bronx Tale",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "Lorenzo Anello",
+                    "gender": 2
+                },
+                {
+                    "character": "Sonny LoSpecchio",
+                    "gender": 2
+                },
+                {
+                    "character": "Calogero \"C\" Anello (Age 17)",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Tombstone",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "Wyatt Earp",
+                    "gender": 2
+                },
+                {
+                    "character": "Doc Holliday",
+                    "gender": 2
+                },
+                {
+                    "character": "Virgil Earp",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Willy Wonka & the Chocolate Factory",
+                "year": "1971",
+                "characters": [
+                {
+                    "character": "Willy Wonka",
+                    "gender": 2
+                },
+                {
+                    "character": "Charlie Bucket",
+                    "gender": 2
+                },
+                {
+                    "character": "Grandpa Joe",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+                "year": "1991",
+                "characters": [
+                {
+                    "character": "April O'Neil",
+                    "gender": 1
+                },
+                {
+                    "character": "Professor Jordon Perry",
+                    "gender": 2
+                },
+                {
+                    "character": "Michaelangelo / Soho Man",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Matilda",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "Matilda Wormwood",
+                    "gender": 1
+                },
+                {
+                    "character": "Harry Wormwood / Narrator (voice)",
+                    "gender": 2
+                },
+                {
+                    "character": "Zinnia Wormwood",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Dirty Dozen",
+                "year": "1967",
+                "characters": [
+                {
+                    "character": "Maj. John Reisman",
+                    "gender": 2
+                },
+                {
+                    "character": "Maj. Gen. Worden",
+                    "gender": 2
+                },
+                {
+                    "character": "Joseph Wladislaw",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Meet Joe Black",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Joe Black",
+                    "gender": 2
+                },
+                {
+                    "character": "William Parrish",
+                    "gender": 2
+                },
+                {
+                    "character": "Susan Parrish",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Mandingo",
+                "year": "1975",
+                "characters": [
+                {
+                    "character": "Hammond Maxwell",
+                    "gender": 2
+                },
+                {
+                    "character": "Warren Maxwell",
+                    "gender": 2
+                },
+                {
+                    "character": "Blanche Woodford Maxwell",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "101 Dalmatians",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "Cruella de Vil",
+                    "gender": 1
+                },
+                {
+                    "character": "Roger",
+                    "gender": 2
+                },
+                {
+                    "character": "Anita",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Bound by Honor",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "Miklo",
+                    "gender": 2
+                },
+                {
+                    "character": "Cruz",
+                    "gender": 2
+                },
+                {
+                    "character": "Paco",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Women's Prison Massacre",
+                "year": "1983",
+                "characters": [
+                {
+                    "character": "Emanuelle",
+                    "gender": 1
+                },
+                {
+                    "character": "Crazy Boy Henderson",
+                    "gender": 2
+                },
+                {
+                    "character": "Albina",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Rambo III",
+                "year": "1988",
+                "characters": [
+                {
+                    "character": "John Rambo",
+                    "gender": 2
+                },
+                {
+                    "character": "Trautman",
+                    "gender": 2
+                },
+                {
+                    "character": "Coronel Zaysen",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Heat",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Lt. Vincent Hanna",
+                    "gender": 2
+                },
+                {
+                    "character": "Neil McCauley",
+                    "gender": 2
+                },
+                {
+                    "character": "Chris Shiherlis",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Predator 2",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Lieutenant Mike Harrigan",
+                    "gender": 2
+                },
+                {
+                    "character": "Peter Keyes",
+                    "gender": 2
+                },
+                {
+                    "character": "Danny Archuleta",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Rocky IV",
+                "year": "1985",
+                "characters": [
+                {
+                    "character": "Robert \"Rocky\" Balboa",
+                    "gender": 2
+                },
+                {
+                    "character": "Adrianna \"Adrian\" Balboa",
+                    "gender": 1
+                },
+                {
+                    "character": "Paulie Pennino",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Hocus Pocus",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "Winifred Sanderson",
+                    "gender": 1
+                },
+                {
+                    "character": "Sarah Sanderson",
+                    "gender": 1
+                },
+                {
+                    "character": "Mary Sanderson",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Ten Commandments",
+                "year": "1956",
+                "characters": [
+                {
+                    "character": "Moses",
+                    "gender": 2
+                },
+                {
+                    "character": "Rameses",
+                    "gender": 2
+                },
+                {
+                    "character": "Nefretiri",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Baby's Day Out",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Eddie",
+                    "gender": 2
+                },
+                {
+                    "character": "Laraine",
+                    "gender": 1
+                },
+                {
+                    "character": "Norby",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Bram Stoker's Dracula",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "Dracula",
+                    "gender": 2
+                },
+                {
+                    "character": "Mina Murray / Elisabeta",
+                    "gender": 1
+                },
+                {
+                    "character": "Jonathan Harker",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Pretty Woman",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Edward Lewis",
+                    "gender": 2
+                },
+                {
+                    "character": "Vivian Ward",
+                    "gender": 1
+                },
+                {
+                    "character": "James Morse",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Wizard of Oz",
+                "year": "1939",
+                "characters": [
+                {
+                    "character": "Dorothy Gale",
+                    "gender": 1
+                },
+                {
+                    "character": "Hunk / Scarecrow",
+                    "gender": 2
+                },
+                {
+                    "character": "Hickory / Tin Man",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Mask",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Stanley Ipkiss / The Mask",
+                    "gender": 2
+                },
+                {
+                    "character": "Lieutenant Mitch Kellaway",
+                    "gender": 2
+                },
+                {
+                    "character": "Dorian Tyrrell",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Day of the Locust",
+                "year": "1975",
+                "characters": [
+                {
+                    "character": "Homer Simpson",
+                    "gender": 2
+                },
+                {
+                    "character": "Faye Greener",
+                    "gender": 1
+                },
+                {
+                    "character": "Harry Greener",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "10 Things I Hate About You",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Patrick Verona",
+                    "gender": 2
+                },
+                {
+                    "character": "Katarina Stratford",
+                    "gender": 1
+                },
+                {
+                    "character": "Cameron James",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Powder",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Jessie Caldwell",
+                    "gender": 1
+                },
+                {
+                    "character": "Jeremy 'Powder' Reed",
+                    "gender": 2
+                },
+                {
+                    "character": "Sheriff Doug Barnum",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "American Pie",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Jim Levenstein",
+                    "gender": 2
+                },
+                {
+                    "character": "Chris 'Oz' Ostreicher",
+                    "gender": 2
+                },
+                {
+                    "character": "Kevin Meyers",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Halloween",
+                "year": "1978",
+                "characters": [
+                {
+                    "character": "Dr. Sam Loomis",
+                    "gender": 2
+                },
+                {
+                    "character": "Laurie Strode",
+                    "gender": 1
+                },
+                {
+                    "character": "Lynda Van Der Klok",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Léon: The Professional",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Léon Montana",
+                    "gender": 2
+                },
+                {
+                    "character": "Mathilda Lando",
+                    "gender": 1
+                },
+                {
+                    "character": "Norman Stansfield",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Jaws",
+                "year": "1975",
+                "characters": [
+                {
+                    "character": "Police Chief Martin Brody",
+                    "gender": 2
+                },
+                {
+                    "character": "Quint",
+                    "gender": 2
+                },
+                {
+                    "character": "Matt Hooper",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Batman",
+                "year": "1989",
+                "characters": [
+                {
+                    "character": "Bruce Wayne / Batman",
+                    "gender": 2
+                },
+                {
+                    "character": "Jack Napier / The Joker",
+                    "gender": 2
+                },
+                {
+                    "character": "Vicki Vale",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Eyes Wide Shut",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Dr. William Harford",
+                    "gender": 2
+                },
+                {
+                    "character": "Alice Harford",
+                    "gender": 1
+                },
+                {
+                    "character": "Victor Ziegler",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Thing",
+                "year": "1982",
+                "characters": [
+                {
+                    "character": "R.J. MacReady",
+                    "gender": 2
+                },
+                {
+                    "character": "Childs",
+                    "gender": 2
+                },
+                {
+                    "character": "Blair",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Mission: Impossible",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "Ethan Hunt",
+                    "gender": 2
+                },
+                {
+                    "character": "Jim Phelps",
+                    "gender": 2
+                },
+                {
+                    "character": "Claire Phelps",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Terminator",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "The Terminator",
+                    "gender": 2
+                },
+                {
+                    "character": "Kyle Reese",
+                    "gender": 2
+                },
+                {
+                    "character": "Sarah Connor",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Godfather Part III",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Michael Corleone",
+                    "gender": 2
+                },
+                {
+                    "character": "Kay Adams",
+                    "gender": 1
+                },
+                {
+                    "character": "Connie Corleone Rizzi",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Your Ticket Is No Longer Valid",
+                "year": "1981",
+                "characters": [
+                {
+                    "character": "Jason",
+                    "gender": 2
+                },
+                {
+                    "character": "Laura",
+                    "gender": 1
+                },
+                {
+                    "character": "Jim Daley",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Men in Black",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Agent K",
+                    "gender": 2
+                },
+                {
+                    "character": "James Edwards / Agent J",
+                    "gender": 2
+                },
+                {
+                    "character": "Dr. Laurel Weaver / Agent L",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Mortal Kombat",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Liu Kang",
+                    "gender": 2
+                },
+                {
+                    "character": "Johnny Cage",
+                    "gender": 2
+                },
+                {
+                    "character": "Shang Tsung",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Indiana Jones and the Last Crusade",
+                "year": "1989",
+                "characters": [
+                {
+                    "character": "Indiana Jones",
+                    "gender": 2
+                },
+                {
+                    "character": "Henry Jones",
+                    "gender": 2
+                },
+                {
+                    "character": "Marcus Brody",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Child's Play",
+                "year": "1988",
+                "characters": [
+                {
+                    "character": "Karen Barclay",
+                    "gender": 1
+                },
+                {
+                    "character": "Mike Norris",
+                    "gender": 2
+                },
+                {
+                    "character": "Andy Barclay",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Fifth Element",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Korben Dallas",
+                    "gender": 2
+                },
+                {
+                    "character": "Leeloo",
+                    "gender": 1
+                },
+                {
+                    "character": "Jean-Baptiste Emmanuel Zorg",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Bride of Chucky",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Tiffany Valentine",
+                    "gender": 1
+                },
+                {
+                    "character": "Chucky (voice)",
+                    "gender": 2
+                },
+                {
+                    "character": "Jade Kincaid",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Get Real",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Steven Carter",
+                    "gender": 2
+                },
+                {
+                    "character": "John Dixon",
+                    "gender": 2
+                },
+                {
+                    "character": "Linda",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Rocky II",
+                "year": "1979",
+                "characters": [
+                {
+                    "character": "Robert \"Rocky\" Balboa",
+                    "gender": 2
+                },
+                {
+                    "character": "Adrianna \"Adrian\" Balboa",
+                    "gender": 1
+                },
+                {
+                    "character": "Paulie Pennino",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Taxi Driver",
+                "year": "1976",
+                "characters": [
+                {
+                    "character": "Travis Bickle",
+                    "gender": 2
+                },
+                {
+                    "character": "Iris Steensma",
+                    "gender": 1
+                },
+                {
+                    "character": "Betsy",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Blade",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Eric Brooks / Blade",
+                    "gender": 2
+                },
+                {
+                    "character": "Deacon Frost",
+                    "gender": 2
+                },
+                {
+                    "character": "Abraham Whistler",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Friday",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Craig Jones",
+                    "gender": 2
+                },
+                {
+                    "character": "Smokey",
+                    "gender": 2
+                },
+                {
+                    "character": "Debbie",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Lolita",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Humbert Humbert",
+                    "gender": 2
+                },
+                {
+                    "character": "Dolores \"Lolita\" Haze",
+                    "gender": 1
+                },
+                {
+                    "character": "Charlotte Haze",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Blade Runner",
+                "year": "1982",
+                "characters": [
+                {
+                    "character": "Rick Deckard",
+                    "gender": 2
+                },
+                {
+                    "character": "Roy Batty",
+                    "gender": 2
+                },
+                {
+                    "character": "Rachael",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Scream 2",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Sidney Prescott",
+                    "gender": 1
+                },
+                {
+                    "character": "Gale Weathers",
+                    "gender": 1
+                },
+                {
+                    "character": "Dewey Riley",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Home Alone 2: Lost in New York",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "Kevin McCallister",
+                    "gender": 2
+                },
+                {
+                    "character": "Harry Lyme",
+                    "gender": 2
+                },
+                {
+                    "character": "Marv Murchins",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Truman Show",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Truman Burbank",
+                    "gender": 2
+                },
+                {
+                    "character": "Meryl Burbank / Hannah Gill",
+                    "gender": 1
+                },
+                {
+                    "character": "Marlon / Louis Coltrane",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Pulp Fiction",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Vincent Vega",
+                    "gender": 2
+                },
+                {
+                    "character": "Jules Winnfield",
+                    "gender": 2
+                },
+                {
+                    "character": "Mia Wallace",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Gladiator",
+                "year": "1992",
+                "characters": [
+                {
+                    "character": "Tommy Riley",
+                    "gender": 2
+                },
+                {
+                    "character": "Spits (Leroy)",
+                    "gender": 2
+                },
+                {
+                    "character": "Abraham Lincoln Haines",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "Ashtray",
+                    "gender": 2
+                },
+                {
+                    "character": "Loc Dog",
+                    "gender": 2
+                },
+                {
+                    "character": "Dashiki",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "The Mummy",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Rick O'Connell",
+                    "gender": 2
+                },
+                {
+                    "character": "Evelyn Carnahan",
+                    "gender": 1
+                },
+                {
+                    "character": "Jonathan Carnahan",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Godfather Part II",
+                "year": "1974",
+                "characters": [
+                {
+                    "character": "Don Michael Corleone",
+                    "gender": 2
+                },
+                {
+                    "character": "Tom Hagen",
+                    "gender": 2
+                },
+                {
+                    "character": "Kay Corleone",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Teenage Mutant Ninja Turtles",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "April O'Neal",
+                    "gender": 1
+                },
+                {
+                    "character": "Casey Jones",
+                    "gender": 2
+                },
+                {
+                    "character": "Raphael (voice) / Passenger In Cab",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Rambo: First Blood Part II",
+                "year": "1985",
+                "characters": [
+                {
+                    "character": "John J. Rambo",
+                    "gender": 2
+                },
+                {
+                    "character": "Col. Samuel Trautman",
+                    "gender": 2
+                },
+                {
+                    "character": "Marshall Murdock",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Raiders of the Lost Ark",
+                "year": "1981",
+                "characters": [
+                {
+                    "character": "Indiana Jones",
+                    "gender": 2
+                },
+                {
+                    "character": "Marion Ravenwood",
+                    "gender": 1
+                },
+                {
+                    "character": "Dr. René Belloq",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "GoodFellas",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Henry Hill",
+                    "gender": 2
+                },
+                {
+                    "character": "James Conway",
+                    "gender": 2
+                },
+                {
+                    "character": "Tommy DeVito",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Back to the Future",
+                "year": "1985",
+                "characters": [
+                {
+                    "character": "Marty McFly",
+                    "gender": 2
+                },
+                {
+                    "character": "Emmett Brown",
+                    "gender": 2
+                },
+                {
+                    "character": "Lorraine Baines",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Top Gun",
+                "year": "1986",
+                "characters": [
+                {
+                    "character": "Lt. Pete 'Maverick' Mitchell",
+                    "gender": 2
+                },
+                {
+                    "character": "Charlotte 'Charlie' Blackwood",
+                    "gender": 1
+                },
+                {
+                    "character": "Lt. Tom 'Iceman' Kazansky",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Parent Trap",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Hallie Parker / Annie James",
+                    "gender": 1
+                },
+                {
+                    "character": "Nick Parker",
+                    "gender": 2
+                },
+                {
+                    "character": "Elizabeth James",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Lionheart",
+                "year": "1990",
+                "characters": [
+                {
+                    "character": "Leon Gaultier",
+                    "gender": 2
+                },
+                {
+                    "character": "Joshua Eldridge",
+                    "gender": 2
+                },
+                {
+                    "character": "Hélène Gaultier",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Baby Face",
+                "year": "1933",
+                "characters": [
+                {
+                    "character": "Lily Powers",
+                    "gender": 1
+                },
+                {
+                    "character": "Courtland Trenholm",
+                    "gender": 2
+                },
+                {
+                    "character": "Ned Stevens",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Aliens",
+                "year": "1986",
+                "characters": [
+                {
+                    "character": "Lt. Ellen Louise Ripley",
+                    "gender": 1
+                },
+                {
+                    "character": "Cpl. Dwayne Hicks",
+                    "gender": 2
+                },
+                {
+                    "character": "Lance Bishop",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Rush Hour",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Lee",
+                    "gender": 2
+                },
+                {
+                    "character": "Carter",
+                    "gender": 2
+                },
+                {
+                    "character": "Griffin / Juntao",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Saving Private Ryan",
+                "year": "1998",
+                "characters": [
+                {
+                    "character": "Captain John H. Miller",
+                    "gender": 2
+                },
+                {
+                    "character": "Technical Sergeant Michael Horvath",
+                    "gender": 2
+                },
+                {
+                    "character": "Private Richard Reiben",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "First Blood",
+                "year": "1982",
+                "characters": [
+                {
+                    "character": "John Rambo",
+                    "gender": 2
+                },
+                {
+                    "character": "Col. Samuel Trautman",
+                    "gender": 2
+                },
+                {
+                    "character": "Hope Sheriff Will Teasle",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Rocky",
+                "year": "1976",
+                "characters": [
+                {
+                    "character": "Robert \"Rocky\" Balboa",
+                    "gender": 2
+                },
+                {
+                    "character": "Adrianna \"Adrian\" Pennino",
+                    "gender": 1
+                },
+                {
+                    "character": "Paulie Pennino",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Se7en",
+                "year": "1995",
+                "characters": [
+                {
+                    "character": "Detective Lt. William Somerset",
+                    "gender": 2
+                },
+                {
+                    "character": "Detective David Mills",
+                    "gender": 2
+                },
+                {
+                    "character": "Tracy Mills",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Red Dawn",
+                "year": "1984",
+                "characters": [
+                {
+                    "character": "Jed",
+                    "gender": 2
+                },
+                {
+                    "character": "Matt",
+                    "gender": 2
+                },
+                {
+                    "character": "Robert",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Caligula",
+                "year": "1979",
+                "characters": [
+                {
+                    "character": "Caligula",
+                    "gender": 2
+                },
+                {
+                    "character": "Drusilla",
+                    "gender": 1
+                },
+                {
+                    "character": "Macro",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Godfather",
+                "year": "1972",
+                "characters": [
+                {
+                    "character": "Don Vito Corleone",
+                    "gender": 2
+                },
+                {
+                    "character": "Michael Corleone",
+                    "gender": 2
+                },
+                {
+                    "character": "Sonny Corleone",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Titanic",
+                "year": "1997",
+                "characters": [
+                {
+                    "character": "Jack Dawson",
+                    "gender": 2
+                },
+                {
+                    "character": "Rose DeWitt Bukater",
+                    "gender": 1
+                },
+                {
+                    "character": "Cal Hockley",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Exorcist",
+                "year": "1973",
+                "characters": [
+                {
+                    "character": "Chris MacNeil",
+                    "gender": 1
+                },
+                {
+                    "character": "Regan",
+                    "gender": 1
+                },
+                {
+                    "character": "Father Karras",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Shawshank Redemption",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Andy Dufresne",
+                    "gender": 2
+                },
+                {
+                    "character": "Ellis Boyd 'Red' Redding",
+                    "gender": 2
+                },
+                {
+                    "character": "Warden Norton",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Maid in Sweden",
+                "year": "1971",
+                "characters": [
+                {
+                    "character": "Inga",
+                    "gender": 1
+                },
+                {
+                    "character": "Greta - Inga's older sister",
+                    "gender": 1
+                },
+                {
+                    "character": "Carsten - Greta's boyfriend",
+                    "gender": 0
+                }
+                ]
+            },
+            {
+                "title": "The Green Mile",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Paul Edgecomb",
+                    "gender": 2
+                },
+                {
+                    "character": "John Coffey",
+                    "gender": 2
+                },
+                {
+                    "character": "Brutus \"Brutal\" Howell",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Scream",
+                "year": "1996",
+                "characters": [
+                {
+                    "character": "Dewey Riley",
+                    "gender": 2
+                },
+                {
+                    "character": "Sidney Prescott",
+                    "gender": 1
+                },
+                {
+                    "character": "Gale Weathers",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Star Wars",
+                "year": "1977",
+                "characters": [
+                {
+                    "character": "Luke Skywalker",
+                    "gender": 2
+                },
+                {
+                    "character": "Han Solo",
+                    "gender": 2
+                },
+                {
+                    "character": "Princess Leia Organa",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Alien",
+                "year": "1979",
+                "characters": [
+                {
+                    "character": "Ripley",
+                    "gender": 1
+                },
+                {
+                    "character": "Dallas",
+                    "gender": 2
+                },
+                {
+                    "character": "Ash",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Matrix",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "Thomas A. Anderson / Neo",
+                    "gender": 2
+                },
+                {
+                    "character": "Morpheus",
+                    "gender": 2
+                },
+                {
+                    "character": "Trinity",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Schindler's List",
+                "year": "1993",
+                "characters": [
+                {
+                    "character": "Oskar Schindler",
+                    "gender": 2
+                },
+                {
+                    "character": "Itzhak Stern",
+                    "gender": 2
+                },
+                {
+                    "character": "Amon Goeth",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Mary, Mary, Bloody Mary",
+                "year": "1975",
+                "characters": [
+                {
+                    "character": "Mary",
+                    "gender": 1
+                },
+                {
+                    "character": "Ben Ryder",
+                    "gender": 2
+                },
+                {
+                    "character": "The Man",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "The Party at Kitty and Stud's",
+                "year": "1970",
+                "characters": [
+                {
+                    "character": "Kitty",
+                    "gender": 1
+                },
+                {
+                    "character": "Stud",
+                    "gender": 2
+                },
+                {
+                    "character": "Nick",
+                    "gender": 0
+                }
+                ]
+            },
+            {
+                "title": "Forrest Gump",
+                "year": "1994",
+                "characters": [
+                {
+                    "character": "Forrest Gump",
+                    "gender": 2
+                },
+                {
+                    "character": "Jenny Curran",
+                    "gender": 1
+                },
+                {
+                    "character": "Lieutenant Dan Taylor",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Scarface",
+                "year": "1983",
+                "characters": [
+                {
+                    "character": "Tony Montana",
+                    "gender": 2
+                },
+                {
+                    "character": "Manny Ray",
+                    "gender": 2
+                },
+                {
+                    "character": "Elvira",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Predator",
+                "year": "1987",
+                "characters": [
+                {
+                    "character": "Major Alan \"Dutch\" Schaefer",
+                    "gender": 2
+                },
+                {
+                    "character": "Al Dillon",
+                    "gender": 2
+                },
+                {
+                    "character": "Anna Gonsalves",
+                    "gender": 1
+                }
+                ]
+            },
+            {
+                "title": "Terminator 2: Judgment Day",
+                "year": "1991",
+                "characters": [
+                {
+                    "character": "The Terminator",
+                    "gender": 2
+                },
+                {
+                    "character": "Sarah Connor",
+                    "gender": 1
+                },
+                {
+                    "character": "John Connor",
+                    "gender": 2
+                }
+                ]
+            },
+            {
+                "title": "Fight Club",
+                "year": "1999",
+                "characters": [
+                {
+                    "character": "The Narrator",
+                    "gender": 2
+                },
+                {
+                    "character": "Tyler Durden",
+                    "gender": 2
+                },
+                {
+                    "character": "Marla Singer",
+                    "gender": 1
+                }
+                ]
+            }
+            ],
+        "men": [
+            "Lin-Manuel Miranda",
+            "Alexander Skarsgård",
+            "Claes Bang",
+            "Ethan Hawke",
+            "Jonah Hill",
+            "Michael Cera",
+            "Christopher Mintz-Plasse",
+            "Bill Hader",
+            "Seth Rogen",
+            "Henry Rollins",
+            "Patrick Dempsey",
+            "Raymond Cruz",
+            "Roman Christou",
+            "Aaron Taylor-Johnson",
+            "Bryan Cranston",
+            "Ken Watanabe",
+            "Adewale Akinnuoye-Agbaje",
+            "Christopher Eccleston",
+            "Lee Byung-hun",
+            "Joseph Gordon-Levitt",
+            "Chris Hemsworth",
+            "Rudhraksh Jaiswal",
+            "Randeep Hooda",
+            "Pankaj Tripathi",
+            "Ian McKellen",
+            "Martin Freeman",
+            "Richard Armitage",
+            "Graham McTavish",
+            "Aidan Turner",
+            "Asa Butterfield",
+            "Samuel L. Jackson",
+            "Rupert Everett",
+            "Benedict Cumberbatch",
+            "Matthew Goode",
+            "Rory Kinnear",
+            "Allen Leech",
+            "Justin Timberlake",
+            "Cillian Murphy",
+            "Alex Pettyfer",
+            "Tobin Bell",
+            "Costas Mandylor",
+            "Mark Rolston",
+            "Stanley Tucci",
+            "Jahzir Bruno",
+            "Chris Rock",
+            "Robbie Amell",
+            "Tom Hopper",
+            "Avan Jogia",
+            "Mason Thames",
+            "Ethan Hawke",
+            "Jeremy Davies",
+            "E. Roger Mitchell",
+            "Sylvester Stallone",
+            "Jason Statham",
+            "Jet Li",
+            "Dolph Lundgren",
+            "Chuck Norris",
+            "Judd Nelson",
+            "Braxton Bjerken",
+            "Bradley Cooper",
+            "Kyle Gallner",
+            "Cole Konis",
+            "Ben Reed",
+            "Michael B. Jordan",
+            "Sylvester Stallone",
+            "Wood Harris",
+            "Russell Hornsby",
+            "Ben Affleck",
+            "Henry Cavill",
+            "Andrew Garfield",
+            "Rhys Ifans",
+            "Martin Sheen",
+            "Logan Lerman",
+            "Brandon T. Jackson",
+            "Jake Abel",
+            "Pierce Brosnan",
+            "Liam Neeson",
+            "Ben Kingsley",
+            "Ralph Fiennes",
+            "Jonathan Sagall",
+            "Chris Hemsworth",
+            "Tom Hiddleston",
+            "Anthony Hopkins",
+            "Stellan Skarsgård",
+            "Robert Pattinson",
+            "Taylor Lautner",
+            "Peter Facinelli",
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Oliver Reed",
+            "Richard Harris",
+            "Harrison Ford",
+            "Dan Stevens",
+            "Colin Woodell",
+            "Omar Sy",
+            "Robert Pattinson",
+            "Taylor Lautner",
+            "Billy Burke",
+            "Peter Facinelli",
+            "Sinqua Walls",
+            "Dewayne Perkins",
+            "Melvin Gregg",
+            "Brendan Fraser",
+            "Ty Simpkins",
+            "Tom Hardy",
+            "Riz Ahmed",
+            "Scott Haze",
+            "Reid Scott",
+            "Shia LaBeouf",
+            "Marco Leonardi",
+            "Vincenzo Crea",
+            "Chris Hemsworth",
+            "Tom Hiddleston",
+            "Jeff Goldblum",
+            "John Krasinski",
+            "Noah Jupe",
+            "Cillian Murphy",
+            "Tom Hanks",
+            "Manuel Garcia-Rulfo",
+            "Cameron Britton",
+            "Vin Diesel",
+            "Tyrese Gibson",
+            "Ludacris",
+            "John Cena",
+            "Vin Diesel",
+            "Jason Statham",
+            "Dwayne Johnson",
+            "Tyrese Gibson",
+            "Jason Statham",
+            "Holt McCallany",
+            "Josh Hartnett",
+            "Scott Eastwood",
+            "Darrell D'Silva",
+            "Ben Schwartz",
+            "James Marsden",
+            "Jim Carrey",
+            "Tobey Maguire",
+            "Willem Dafoe",
+            "James Franco",
+            "Cliff Robertson",
+            "Miles Teller",
+            "J.K. Simmons",
+            "Paul Reiser",
+            "Austin Stowell",
+            "Finn Wolfhard",
+            "Paul Rudd",
+            "Logan Kim",
+            "Johnny Depp",
+            "Javier Bardem",
+            "Geoffrey Rush",
+            "Brenton Thwaites",
+            "Adam Hightower",
+            "Vincent Vargas",
+            "Madison Bills",
+            "Brad Pitt",
+            "Diego Calva",
+            "Flea",
+            "Adain Bradley",
+            "Bill Sage",
+            "Dylan McTee",
+            "Chris Pratt",
+            "Ty Simpkins",
+            "Nick Robinson",
+            "Vincent D'Onofrio",
+            "Matthew Morrison",
+            "Anthony Aguirre",
+            "Stephon Alexander",
+            "Kenny Easwaran",
+            "Anthony LaPaglia",
+            "Liam Neeson",
+            "Leland Orser",
+            "Jon Gries",
+            "Matt Hookings",
+            "Ray Winstone",
+            "Marton Csokas",
+            "Russell Crowe",
+            "Tom Skerritt",
+            "Ian Holm",
+            "Yaphet Kotto",
+            "John Hurt",
+            "Tobin Bell",
+            "Costas Mandylor",
+            "Scott Patterson",
+            "Christian Bale",
+            "Michael Caine",
+            "Gary Oldman",
+            "Tom Hardy",
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Hugo Weaving",
+            "Joe Pantoliano",
+            "Ben Foster",
+            "Michael Caine",
+            "Til Schweiger",
+            "Matthew Goode",
+            "Chadwick Boseman",
+            "Michael B. Jordan",
+            "Martin Freeman",
+            "Dwayne Johnson",
+            "Ryan Reynolds",
+            "Chris Diamantopoulos",
+            "Dylan O'Brien",
+            "Thomas Brodie-Sangster",
+            "Ki Hong Lee",
+            "Patrick Wilson",
+            "Arnold Schwarzenegger",
+            "Jason Clarke",
+            "Jai Courtney",
+            "J.K. Simmons",
+            "David Arquette",
+            "Matthew Lillard",
+            "David Harbour",
+            "John Leguizamo",
+            "Alex Hassell",
+            "Tye Sheridan",
+            "Ben Mendelsohn",
+            "T.J. Miller",
+            "Louis Boyer",
+            "Ben Lamb",
+            "Mark Hamill",
+            "Harrison Ford",
+            "Peter Cushing",
+            "Alec Guinness",
+            "Ryan Gosling",
+            "Chris Evans",
+            "Billy Bob Thornton",
+            "Channing Tatum",
+            "Daniel Radcliffe",
+            "Brad Pitt",
+            "Tobin Bell",
+            "Costas Mandylor",
+            "Scott Patterson",
+            "Lyriq Bent",
+            "Keanu Reeves",
+            "Yahya Abdul-Mateen II",
+            "Jonathan Groff",
+            "Tom Frederic",
+            "Jack Gordon",
+            "Christian Bale",
+            "Joel Edgerton",
+            "Ben Kingsley",
+            "John Turturro",
+            "Aaron Paul",
+            "Giulio Berruti",
+            "Rhett Wellington",
+            "James Andrew Fraser",
+            "Tom Hardy",
+            "Nicholas Hoult",
+            "Hugh Keays-Byrne",
+            "Viggo Mortensen",
+            "Elijah Wood",
+            "Sean Astin",
+            "Andy Serkis",
+            "Ian McKellen",
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Matthew Lewis",
+            "Andy Serkis",
+            "Jason Clarke",
+            "Gary Oldman",
+            "Toby Kebbell",
+            "David Harbour",
+            "Ray Winstone",
+            "Tom Holland",
+            "Samuel L. Jackson",
+            "Jake Gyllenhaal",
+            "Jon Favreau",
+            "Dwayne Johnson",
+            "Edgar Ramírez",
+            "Jack Whitehall",
+            "Jesse Plemons",
+            "Jack Pearson",
+            "Anthony Jensen",
+            "Thomas Mann",
+            "Oliver Cooper",
+            "Jonathan Daniel Brown",
+            "Dax Flame",
+            "Richard Madden",
+            "Kumail Nanjiani",
+            "Barry Keoghan",
+            "Spencer List",
+            "William Sadler",
+            "Michael Park",
+            "Sam Worthington",
+            "Tim McGraw",
+            "Aviv Alush",
+            "Chris Pratt",
+            "Dave Bautista",
+            "Vin Diesel",
+            "Bradley Cooper",
+            "Rossif Sutherland",
+            "Hiro Kanagawa",
+            "Matthew Finlan",
+            "Stephen Graham",
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Brett Cullen",
+            "Dolph Lundgren",
+            "Aaron Courteau",
+            "Frank Grillo",
+            "Andrew Stecker",
+            "Hiram A. Murray",
+            "Liam Neeson",
+            "Guy Pearce",
+            "Harold Torres",
+            "Brad Pitt",
+            "James Badge Dale",
+            "Ludi Boeken",
+            "Sofian Oleniuk",
+            "Michel Perron",
+            "Eric Davis",
+            "Tobey Maguire",
+            "James Franco",
+            "Thomas Haden Church",
+            "Topher Grace",
+            "Vin Diesel",
+            "Paul Walker",
+            "Jason Statham",
+            "Egor Koreshkov",
+            "Konstantin Samoukov",
+            "Pyotr Romanov",
+            "Nikita Dyuvbanov",
+            "Adam Sandler",
+            "Andy Samberg",
+            "Vanilla Ice",
+            "Tony Orlando",
+            "Scott Adkins",
+            "Alon Abutbul",
+            "Julian Vergov",
+            "Martyn Ford",
+            "Ralph Fiennes",
+            "Rhys Ifans",
+            "Matthew Goode",
+            "Tom Hollander",
+            "Ryan Reynolds",
+            "Joe Keery",
+            "Lil Rel Howery",
+            "Utkarsh Ambudkar",
+            "Keanu Reeves",
+            "Michael Nyqvist",
+            "Ian McShane",
+            "John Leguizamo",
+            "Willem Dafoe",
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Ken Watanabe",
+            "Tom Hardy",
+            "Patrick Wilson",
+            "John Bradley",
+            "Charlie Plummer",
+            "Jeffrey Donovan",
+            "Richard Brake",
+            "Jake Choi",
+            "Elijah Wood",
+            "Sean Astin",
+            "Viggo Mortensen",
+            "Andy Serkis",
+            "Ian McKellen",
+            "Charlie Hunnam",
+            "Idris Elba",
+            "Max Martini",
+            "Clifton Collins Jr.",
+            "Frank Grillo",
+            "Mel Gibson",
+            "Ken Jeong",
+            "Tom Cruise",
+            "Henry Cavill",
+            "Ving Rhames",
+            "Simon Pegg",
+            "Ben Affleck",
+            "Henry Cavill",
+            "Jesse Eisenberg",
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse",
+            "Michael Jeter",
+            "Jared Leto",
+            "Matt Smith",
+            "Jared Harris",
+            "Al Madrigal",
+            "Will Beinbrink",
+            "Joseph Marcell",
+            "Hector Kotsifakis",
+            "Javon Walton",
+            "Sylvester Stallone",
+            "Moisés Arias",
+            "Pilou Asbæk",
+            "Ke Huy Quan",
+            "James Hong",
+            "Ramón Rodríguez",
+            "Austin Ball",
+            "Guy Burnet",
+            "Sebastian Billingsley-Rodriguez",
+            "Erik Athavale",
+            "Christian Bale",
+            "Heath Ledger",
+            "Michael Caine",
+            "Gary Oldman",
+            "Aaron Eckhart",
+            "Bradley Cooper",
+            "Ed Helms",
+            "Zach Galifianakis",
+            "Justin Bartha",
+            "Gerard Butler",
+            "Aaron Eckhart",
+            "Morgan Freeman",
+            "Tobin Bell",
+            "Costas Mandylor",
+            "Cary Elwes",
+            "Sean Patrick Flanery",
+            "Robert Downey Jr.",
+            "Don Cheadle",
+            "Sam Rockwell",
+            "Brad Pitt",
+            "Aaron Taylor-Johnson",
+            "Brian Tyree Henry",
+            "Andrew Koji",
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo",
+            "Chris Evans",
+            "James McAvoy",
+            "Isaiah Mustafa",
+            "Bill Hader",
+            "Jay Ryan",
+            "Ryan Reynolds",
+            "Ed Skrein",
+            "T.J. Miller",
+            "Benedict Cumberbatch",
+            "Chiwetel Ejiofor",
+            "Benedict Wong",
+            "Mads Mikkelsen",
+            "Chris Rock",
+            "Samuel L. Jackson",
+            "Max Minghella",
+            "Dan Petronijevic",
+            "Adam Sandler",
+            "Kevin James",
+            "Chris Rock",
+            "David Spade",
+            "Tom Holland",
+            "Michael Keaton",
+            "Robert Downey Jr.",
+            "Jon Favreau",
+            "Timothée Chalamet",
+            "Oscar Isaac",
+            "Josh Brolin",
+            "Stellan Skarsgård",
+            "Ryan Reynolds",
+            "Josh Brolin",
+            "Julian Dennison",
+            "Robert Pattinson",
+            "Billy Burke",
+            "Peter Facinelli",
+            "Andrew Garfield",
+            "Jamie Foxx",
+            "Dane DeHaan",
+            "Colm Feore",
+            "Mark Wahlberg",
+            "Seth MacFarlane",
+            "Morgan Freeman",
+            "Idris Elba",
+            "Sharlto Copley",
+            "Alexander Skarsgård",
+            "Brian Tyree Henry",
+            "Shun Oguri",
+            "Josh Hutcherson",
+            "Liam Hemsworth",
+            "Woody Harrelson",
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Kyle Chandler",
+            "Rob Reiner",
+            "Sam Worthington",
+            "Stephen Lang",
+            "Sylvester Stallone",
+            "Jason Statham",
+            "Harrison Ford",
+            "Mel Gibson",
+            "Arnold Schwarzenegger",
+            "Sebastian Pigott",
+            "Chris Evans",
+            "Robert Downey Jr.",
+            "Sebastian Stan",
+            "Chadwick Boseman",
+            "Lucas Paul",
+            "Ross Paul",
+            "Hugh Jackman",
+            "Dakota Goyo",
+            "Kevin Durand",
+            "Anthony Mackie",
+            "Idris Elba",
+            "John Cena",
+            "Joel Kinnaman",
+            "Sylvester Stallone",
+            "Stellan Skarsgård",
+            "Shia LaBeouf",
+            "Willem Dafoe",
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton",
+            "William Sadler",
+            "Clancy Brown",
+            "David Howard Thornton",
+            "Elliott Fullam",
+            "Chris Pratt",
+            "J.K. Simmons",
+            "Sam Richardson",
+            "Kyle Gallner",
+            "Jessie T. Usher",
+            "Kal Penn",
+            "Josh Duhamel",
+            "Lenny Kravitz",
+            "Joel Fry",
+            "Paul Walter Hauser",
+            "Mark Strong",
+            "Johnny Depp",
+            "Geoffrey Rush",
+            "Ian McShane",
+            "Kevin McNally",
+            "Ryan Gosling",
+            "Harrison Ford",
+            "Ego Mikitas",
+            "Michael Marcel",
+            "Matt Passmore",
+            "Tobin Bell",
+            "Callum Keith Rennie",
+            "Clé Bennett",
+            "Sam Claflin",
+            "Charles Dance",
+            "Brendan Coyle",
+            "Tom Holland",
+            "Mark Wahlberg",
+            "Antonio Banderas",
+            "Dwayne Johnson",
+            "Jason Statham",
+            "Idris Elba",
+            "Will Arnett",
+            "William Fichtner",
+            "Danny Woodburn",
+            "Jamie Dornan",
+            "Eric Johnson",
+            "Luke Grimes",
+            "Christian Bale",
+            "Matt Damon",
+            "Jon Bernthal",
+            "Josh Lucas",
+            "Imran Adams",
+            "Jarreau Benjamin",
+            "Peter Brooke",
+            "Jamie Dornan",
+            "Victor Rasuk",
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan",
+            "Robert Duvall",
+            "Richard S. Castellano",
+            "Keanu Reeves",
+            "Ian McShane",
+            "Laurence Fishburne",
+            "Mark Dacascos",
+            "John Rhys-Davies",
+            "Michael Yare",
+            "Richard Brake",
+            "David Pearse",
+            "Kid Cudi",
+            "Martin Henderson",
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Sean Bean",
+            "Sean Astin",
+            "Leonardo DiCaprio",
+            "Billy Zane",
+            "Jason Miller",
+            "Max von Sydow",
+            "Lee J. Cobb",
+            "Johnny Depp",
+            "Orlando Bloom",
+            "Geoffrey Rush",
+            "Jack Davenport",
+            "Tom Hardy",
+            "Woody Harrelson",
+            "Reid Scott",
+            "John Boyega",
+            "Scott Adkins",
+            "Ray Stevenson",
+            "Perry Benson",
+            "Andy Long Nguyen",
+            "Sylvester Stallone",
+            "Jason Statham",
+            "Jet Li",
+            "Dolph Lundgren",
+            "Eric Roberts",
+            "Rowan Smyth",
+            "Matt Lindquist",
+            "Wilford Brimley",
+            "Jeremy London",
+            "Tom Sizemore",
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Patrick Wilson",
+            "Simon McBurney",
+            "Ocean M Harris",
+            "Skandar Keynes",
+            "William Moseley",
+            "Andrew Garfield",
+            "Sam Worthington",
+            "Vince Vaughn",
+            "Luke Bracey",
+            "Sebastian Stan",
+            "Dayo Okeniyi",
+            "Mason Gooding",
+            "Jack Quaid",
+            "Jackson Berlin",
+            "Darren Andrichuk",
+            "Johnathan Gorman",
+            "Luke Mably",
+            "Jonathan Firth",
+            "Keanu Reeves",
+            "Common",
+            "Ian McShane",
+            "Laurence Fishburne",
+            "Riccardo Scamarcio",
+            "Brad Pitt",
+            "Shia LaBeouf",
+            "Logan Lerman",
+            "Michael Peña",
+            "Jon Bernthal",
+            "Ian McKellen",
+            "Martin Freeman",
+            "Richard Armitage",
+            "Orlando Bloom",
+            "Jaeden Martell",
+            "Bill Skarsgård",
+            "Jack Dylan Grazer",
+            "Finn Wolfhard",
+            "Joe Doyle",
+            "Peter Mensah",
+            "Joe Anderson",
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Malcolm McDowell",
+            "Guido Mannari",
+            "John Gielgud",
+            "Peter O'Toole",
+            "Eddie Redmayne",
+            "Jude Law",
+            "Mads Mikkelsen",
+            "Dan Fogler",
+            "Dylan O'Brien",
+            "Ki Hong Lee",
+            "Aml Ameen",
+            "Blake Cooper",
+            "Dakota Beavers",
+            "Stormee Kipp",
+            "Julian Black Antelope",
+            "Jason Statham",
+            "Rainn Wilson",
+            "Cliff Curtis",
+            "Matthew McConaughey",
+            "Bill Irwin",
+            "Simon Helberg",
+            "Zachary Quinto",
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Brendan Gleeson",
+            "Michael Gambon",
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Jim Broadbent",
+            "Michael Gambon",
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Kenneth Branagh",
+            "Toby Jones",
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Toby Jones",
+            "Denzel Washington",
+            "Pedro Pascal",
+            "Ashton Sanders",
+            "Orson Bean",
+            "Bill Pullman",
+            "Cary Elwes",
+            "Leigh Whannell",
+            "Danny Glover",
+            "Ken Leung",
+            "Ronny Chieng",
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Ralph Fiennes",
+            "Alan Rickman",
+            "Bruce Willis",
+            "Jai Courtney",
+            "Sebastian Koch",
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Robbie Coltrane",
+            "Michael Gambon",
+            "Frank Grillo",
+            "Romano Reggiani",
+            "Gabriel Byrne",
+            "Liam Neeson",
+            "Forest Whitaker",
+            "Dougray Scott",
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Dani Filth",
+            "Neal Ward",
+            "Harry Aspinwall",
+            "Simu Liu",
+            "Florian Munteanu",
+            "Hero Fiennes Tiffin",
+            "Shane Paul McGhie",
+            "Dylan Arnold",
+            "Robert Pattinson",
+            "Paul Dano",
+            "Jeffrey Wright",
+            "John Turturro",
+            "Chris Pratt",
+            "Sam Neill",
+            "Jeff Goldblum",
+            "Tom Cruise",
+            "Miles Teller",
+            "Jon Hamm",
+            "Glen Powell",
+            "Leigh Whannell",
+            "Angus Sampson",
+            "Kirk Acevedo",
+            "Chris Hemsworth",
+            "Christian Bale",
+            "Taika Waititi",
+            "D.Y. Sao",
+            "Layton Matthews",
+            "Brian Le",
+            "Craig Ng",
+            "Ben Schwartz",
+            "James Marsden",
+            "Idris Elba",
+            "Douglas Booth",
+            "Chris Walley",
+            "Kristian Nairn",
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Richard Harris",
+            "Tom Felton",
+            "Jeffrey Dean Morgan",
+            "Mason Gooding",
+            "Jasper Cole",
+            "Ben Affleck",
+            "Henry Cavill",
+            "Jason Momoa",
+            "Roger Clark",
+            "Luke Baines",
+            "Sean Cullen",
+            "Hero Fiennes Tiffin",
+            "Dylan Sprouse",
+            "Charlie Weber",
+            "Dwayne Johnson",
+            "Aldis Hodge",
+            "Noah Centineo",
+            "Colin Salmon",
+            "Christian Navarro",
+            "Nicholas Ralph",
+            "Benedict Cumberbatch",
+            "Chiwetel Ejiofor",
+            "Benedict Wong",
+            "Patrick Wilson",
+            "Ron Livingston",
+            "Joe Bird",
+            "Otis Dhanji",
+            "Demián Bichir",
+            "Jonas Bloquet",
+            "Patrick Swayze",
+            "Charlie Sheen",
+            "C. Thomas Howell",
+            "Darren Dalton",
+            "Luke Goss",
+            "Val Kilmer",
+            "Mike Hatton",
+            "Paul Sloan",
+            "Nick Vallelonga",
+            "Sam Worthington",
+            "Stephen Lang",
+            "Jack Wolfe",
+            "F. Murray Abraham",
+            "Iwan Rheon",
+            "Amir Wilson",
+            "Patrick Muldoon",
+            "Kevin Sorbo",
+            "Logan Allen",
+            "John Magaro",
+            "James Carpinello",
+            "Patrick Wilson",
+            "Ruairí O'Connor",
+            "Julian Hilliard",
+            "Denzel Washington",
+            "Marton Csokas",
+            "David Harbour",
+            "Dwayne Johnson",
+            "Ioan Gruffudd",
+            "Matthew Broderick",
+            "Christopher Walken",
+            "Tom Holland",
+            "Benedict Cumberbatch",
+            "Jacob Batalon",
+            "Jon Favreau",
+            "Hero Fiennes Tiffin",
+            "Chance Perdomo",
+            "Rob Estes",
+            "Winston Duke",
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo",
+            "Chris Evans",
+            "Marlon Wayans",
+            "D.C. Ervin",
+            "Sydney Castillo",
+            "Harris Dickinson",
+            "Patrick Gibson",
+            "Skylan Brooks",
+            "Hero Fiennes Tiffin",
+            "Chance Perdomo",
+            "Rob Estes",
+            "Derek Nelson",
+            "James Swanton"
+        ],
+        "women": [
+            "Stephanie Beatriz",
+            "Adassa",
+            "Carolina Gaitán",
+            "Jessica Darrow",
+            "Nicole Kidman",
+            "Anya Taylor-Joy",
+            "Erica Leerhsen",
+            "Aleksa Palladino",
+            "Crystal Lowe",
+            "Rorelee Tio",
+            "Amy Adams",
+            "Maya Rudolph",
+            "Gabriella Baldacchino",
+            "Linda Cardellini",
+            "Patricia Velásquez",
+            "Jaynee-Lynne Kinchen",
+            "Elizabeth Olsen",
+            "Juliette Binoche",
+            "Sienna Miller",
+            "Golshifteh Farahani",
+            "Eva Green",
+            "Judi Dench",
+            "Keira Knightley",
+            "Amanda Seyfried",
+            "Olivia Wilde",
+            "Betsy Russell",
+            "Shawnee Smith",
+            "Anne Hathaway",
+            "Octavia Spencer",
+            "Kaya Scodelario",
+            "Hannah John-Kamen",
+            "Madeleine McGraw",
+            "Stefanie Scott",
+            "Joely Fisher",
+            "Kim Rosen",
+            "Sienna Miller",
+            "Tessa Thompson",
+            "Amy Adams",
+            "Gal Gadot",
+            "Emma Stone",
+            "Sally Field",
+            "Alexandra Daddario",
+            "Caroline Goodall",
+            "Natalie Portman",
+            "Kristen Stewart",
+            "Elizabeth Reaser",
+            "Connie Nielsen",
+            "Karen Gillan",
+            "Kristen Stewart",
+            "Antoinette Robertson",
+            "X Mayo",
+            "Sadie Sink",
+            "Hong Chau",
+            "Samantha Morton",
+            "Michelle Williams",
+            "Cristina Chiriac",
+            "Asia Argento",
+            "Cate Blanchett",
+            "Tessa Thompson",
+            "Emily Blunt",
+            "Millicent Simmonds",
+            "Mariana Treviño",
+            "Rachel Keller",
+            "Michelle Rodriguez",
+            "Michelle Rodriguez",
+            "Tika Sumpter",
+            "Natasha Rothwell",
+            "Kirsten Dunst",
+            "Melissa Benoist",
+            "Carrie Coon",
+            "Mckenna Grace",
+            "Kaya Scodelario",
+            "Scarlett Diamond",
+            "Tara Berrett",
+            "Margot Robbie",
+            "Jean Smart",
+            "Charlotte Vega",
+            "Emma Dumont",
+            "Bryce Dallas Howard",
+            "Sarah Chalke",
+            "Laura Bell Bundy",
+            "Jane Lynch",
+            "Eugenia Cheng",
+            "Moon Duchin",
+            "Stephanie Sigman",
+            "Talitha Bateman",
+            "Lulu Wilson",
+            "Miranda Otto",
+            "Maggie Grace",
+            "Famke Janssen",
+            "Jodhi May",
+            "Sigourney Weaver",
+            "Betsy Russell",
+            "Julie Benz",
+            "Anne Hathaway",
+            "Carrie-Anne Moss",
+            "Sophie Lowe",
+            "Lupita Nyong'o",
+            "Danai Gurira",
+            "Gal Gadot",
+            "Ritu Arya",
+            "Kaya Scodelario",
+            "Rosa Salazar",
+            "Vera Farmiga",
+            "Mckenna Grace",
+            "Madison Iseman",
+            "Katie Sarife",
+            "Emilia Clarke",
+            "Neve Campbell",
+            "Courteney Cox",
+            "Rose McGowan",
+            "Beverly D'Angelo",
+            "Alexis Louder",
+            "Olivia Cooke",
+            "Lena Waithe",
+            "Brittany Ashworth",
+            "Anaïs Parello",
+            "Carrie Fisher",
+            "Ana de Armas",
+            "Jessica Henwick",
+            "Sandra Bullock",
+            "Da'Vine Joy Randolph",
+            "Betsy Russell",
+            "Carrie-Anne Moss",
+            "Jessica Henwick",
+            "Janet Montgomery",
+            "Louise Cliffe",
+            "Emma Clifford",
+            "Melanie Zanetti",
+            "Margaux Brooke",
+            "Charlize Theron",
+            "Riley Keough",
+            "Emma Watson",
+            "Bonnie Wright",
+            "Keri Russell",
+            "Scarlett Johansson",
+            "Florence Pugh",
+            "Rachel Weisz",
+            "Marisa Tomei",
+            "Emily Blunt",
+            "Erin Coker",
+            "Kirby Bliss Blanton",
+            "Gemma Chan",
+            "Angelina Jolie",
+            "Cara Buono",
+            "Clare Foley",
+            "Octavia Spencer",
+            "Sumire Matsubara",
+            "Zoe Saldaña",
+            "Isabelle Fuhrman",
+            "Julia Stiles",
+            "Alisha Weir",
+            "Emma Thompson",
+            "Lashana Lynch",
+            "Andrea Riseborough",
+            "Zazie Beetz",
+            "Frances Conroy",
+            "Taj Atwal",
+            "Monica Bellucci",
+            "Mireille Enos",
+            "Daniella Kertesz",
+            "Lola Rossignol-Arts",
+            "Patricia Summersett",
+            "Kirsten Dunst",
+            "Michelle Rodriguez",
+            "Jordana Brewster",
+            "Alena Konstantinova",
+            "Leighton Meester",
+            "Teodora Duhovnikova",
+            "Gemma Arterton",
+            "Jodie Comer",
+            "Halle Berry",
+            "Kelly Yu",
+            "Bette Midler",
+            "Sarah Jessica Parker",
+            "Kathy Najimy",
+            "Whitney Peak",
+            "Belissa Escobedo",
+            "Penelope Mitchell",
+            "Kerry Knuppe",
+            "Rinko Kikuchi",
+            "Naomi Watts",
+            "Annabelle Wallis",
+            "Rebecca Ferguson",
+            "Gal Gadot",
+            "Amy Adams",
+            "Bonnie Hunt",
+            "Adria Arjona",
+            "María Gabriela de Faría",
+            "Irán Castillo",
+            "Dascha Polanco",
+            "Michelle Yeoh",
+            "Stephanie Hsu",
+            "Jamie Lee Curtis",
+            "Oona Chaplin",
+            "Liane Balaban",
+            "Moni Ogunsuyi",
+            "Melissa Barrera",
+            "Edie Inksetter",
+            "Heather Graham",
+            "Angela Bassett",
+            "Melissa Leo",
+            "Betsy Russell",
+            "Gwyneth Paltrow",
+            "Scarlett Johansson",
+            "Joey King",
+            "Scarlett Johansson",
+            "Jessica Chastain",
+            "Morena Baccarin",
+            "Gina Carano",
+            "Rachel McAdams",
+            "Marisol Nichols",
+            "Salma Hayek Pinault",
+            "Marisa Tomei",
+            "Rebecca Ferguson",
+            "Morena Baccarin",
+            "Zazie Beetz",
+            "Kristen Stewart",
+            "Elizabeth Reaser",
+            "Emma Stone",
+            "Amanda Seyfried",
+            "Jessica Barth",
+            "Leah Sava Jeffries",
+            "Iyana Halley",
+            "Millie Bobby Brown",
+            "Rebecca Hall",
+            "Jennifer Lawrence",
+            "Elizabeth Banks",
+            "Margot Robbie",
+            "Zoe Saldaña",
+            "Michelle Rodriguez",
+            "Sigourney Weaver",
+            "Erika Linder",
+            "Natalie Krill",
+            "Mayko Nguyen",
+            "Tommie-Amber Pirie",
+            "Scarlett Johansson",
+            "Dali Rose Tetreault",
+            "Evangeline Lilly",
+            "Margot Robbie",
+            "Charlotte Gainsbourg",
+            "Stacy Martin",
+            "Lauren LaVera",
+            "Sarah Voigt",
+            "Kailey Hyman",
+            "Yvonne Strahovski",
+            "Betty Gilpin",
+            "Sosie Bacon",
+            "Caitlin Stasey",
+            "Jennifer Lopez",
+            "Jennifer Coolidge",
+            "Sônia Braga",
+            "Emma Stone",
+            "Emma Thompson",
+            "Penélope Cruz",
+            "Ana de Armas",
+            "Sylvia Hoeks",
+            "Robin Wright",
+            "Maxi Witrak",
+            "Tania Fox",
+            "Hannah Anderson",
+            "Emilia Clarke",
+            "Janet McTeer",
+            "Sophia Ali",
+            "Tati Gabrielle",
+            "Vanessa Kirby",
+            "Helen Mirren",
+            "Megan Fox",
+            "Abby Elliott",
+            "Dakota Johnson",
+            "Rita Ora",
+            "Caitríona Balfe",
+            "Sydney Craven",
+            "Ocean Navarro",
+            "Dakota Johnson",
+            "Jennifer Ehle",
+            "Eloise Mumford",
+            "Halle Berry",
+            "Elena Delia",
+            "Mia Goth",
+            "Jenna Ortega",
+            "Brittany Snow",
+            "Kate Winslet",
+            "Kathy Bates",
+            "Frances Fisher",
+            "Ellen Burstyn",
+            "Linda Blair",
+            "Keira Knightley",
+            "Michelle Williams",
+            "Naomie Harris",
+            "Viola Davis",
+            "Thuso Mbedu",
+            "Lashana Lynch",
+            "Sheila Atim",
+            "Sarah Chang",
+            "Scarlett Johansson",
+            "Vera Farmiga",
+            "Madison Wolfe",
+            "Frances O'Connor",
+            "Emily Eaton-Plowright",
+            "Daniel Godfrey",
+            "Danielle Scott",
+            "Jacasta Townend",
+            "Georgie Henley",
+            "Anna Popplewell",
+            "Tilda Swinton",
+            "Teresa Palmer",
+            "Daisy Edgar-Jones",
+            "Jojo T. Gibbs",
+            "Andrea Bang",
+            "Melissa Barrera",
+            "Jenna Ortega",
+            "Jasmin Savoy Brown",
+            "Sadie Silcock",
+            "Gina Simms",
+            "April Hale",
+            "Summer Madison",
+            "Kam Heskin",
+            "Maryam d'Abo",
+            "Clemency Burton-Hill",
+            "Evangeline Lilly",
+            "Sophia Lillis",
+            "Alice Orr-Ewing",
+            "Eveline Hall",
+            "Scarlett Johansson",
+            "Teresa Ann Savoy",
+            "Kaya Scodelario",
+            "Amber Midthunder",
+            "Michelle Thrush",
+            "Li Bingbing",
+            "Ruby Rose",
+            "Anne Hathaway",
+            "Jessica Chastain",
+            "Ellen Burstyn",
+            "Melanie Lynskey",
+            "Judith Light",
+            "Maggie Grace",
+            "Emma Watson",
+            "Emma Watson",
+            "Emma Watson",
+            "Emma Watson",
+            "Helena Bonham Carter",
+            "Monica Potter",
+            "Allison Williams",
+            "Violet McGraw",
+            "Amie Donald",
+            "Jenna Davis",
+            "Emma Watson",
+            "Mary Elizabeth Winstead",
+            "Yuliya Snigir",
+            "Emma Watson",
+            "Hannah van der Westhuysen",
+            "Maggie Grace",
+            "Famke Janssen",
+            "Emma Watson",
+            "Imelda Staunton",
+            "Helena Bonham Carter",
+            "Hannah Al Rashid",
+            "Anita Abdinezhad",
+            "Awkwafina",
+            "Zhang Meng'er",
+            "Fala Chen",
+            "Josephine Langford",
+            "Khadijha Red Thunder",
+            "Zoë Kravitz",
+            "Bryce Dallas Howard",
+            "Laura Dern",
+            "Jennifer Connelly",
+            "Lin Shaye",
+            "Caitlin Gerard",
+            "Natalie Portman",
+            "Tessa Thompson",
+            "Anna Harr",
+            "Tika Sumpter",
+            "Colleen O'Shaughnessey",
+            "Hannah John-Kamen",
+            "Jamie Lee O'Donnell",
+            "Emma Watson",
+            "Grace Caroline Currey",
+            "Virginia Gardner",
+            "Gal Gadot",
+            "Kayla Jenee Radomski",
+            "Josephine Langford",
+            "Louise Lombard",
+            "Sarah Shahi",
+            "Johanna Rae",
+            "Jacqueline Byers",
+            "Lisa Palfrey",
+            "Elizabeth Olsen",
+            "Xochitl Gomez",
+            "Vera Farmiga",
+            "Lili Taylor",
+            "Mackenzie Foy",
+            "Sophie Wilde",
+            "Alexandra Jensen",
+            "Miranda Otto",
+            "Taissa Farmiga",
+            "Bonnie Aarons",
+            "Ingrid Bisu",
+            "Lea Thompson",
+            "Zoe Saldaña",
+            "Sigourney Weaver",
+            "Kate Winslet",
+            "Jeanne Goursaud",
+            "Tommi Rose",
+            "Lola Sultan",
+            "Chasten Harmon",
+            "Kat Cunning",
+            "Aylya Marzolf",
+            "Vera Farmiga",
+            "Sarah Catherine Hook",
+            "Chloë Grace Moretz",
+            "Haley Bennett",
+            "Alexandra Daddario",
+            "Carla Gugino",
+            "Archie Panjabi",
+            "Nicole Kidman",
+            "Bette Midler",
+            "Glenn Close",
+            "Zendaya",
+            "Josephine Langford",
+            "Louise Lombard",
+            "Letitia Wright",
+            "Lupita Nyong'o",
+            "Danai Gurira",
+            "Dominique Thorne",
+            "Scarlett Johansson",
+            "Chaunte Wayans",
+            "Mandy Moore",
+            "Josephine Langford",
+            "Louise Lombard",
+            "Natalie Martins"
+        ]
+    }
+}

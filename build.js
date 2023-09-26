@@ -4,7 +4,7 @@ const files = fs.readdirSync('./bots').filter(f => f.includes('.json')).map(f =>
 
 const list = files.map(f => {
     const data = JSON.parse(fs.readFileSync(f, 'utf8'))
-    return `<li><a href="${data.url}"><strong>${data.name}</strong> - <em>${data.description}</em></a></li>`
+    return `<li><a href="${data.url}"><strong>${data.name}</strong></a> - <em>${data.description}</em></li>`
 }).join('\n')
 
 const links = files.map(f => {
