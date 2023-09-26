@@ -40,7 +40,7 @@ const run = async () => {
 
     console.log(`⚙️ Running bot for ${botData.name}`)
  
-    var grammar = tracery.createGrammar(botData.grammer)
+    var grammar = tracery.createGrammar(botData.grammar)
     
     grammar.addModifiers(tracery.baseEngModifiers) 
     
