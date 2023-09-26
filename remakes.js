@@ -68,7 +68,7 @@ const run = async () => {
         body: JSON.stringify({
             'api_key': process.env.BUGLE_API_KEY,
             'content': output,
-            'image': image,
+            'image_upload': image,
         })
     })
 
