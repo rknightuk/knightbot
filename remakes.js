@@ -56,9 +56,11 @@ const run = async () => {
         return true
     })
 
-    const image = await deepai.callStandardApi("text2img", {
+    const imageResponse= await deepai.callStandardApi("text2img", {
         text: output,
     })
+
+    const image = imageResponse.output_url
 
     const response = await fetch(`https://bugle.lol/@${botData.username}`, {
         method: 'POST',
