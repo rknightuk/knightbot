@@ -3,6 +3,11 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
+const make = (grammar) => {
+    const output = grammar.flatten('#origin#')
+    return output.charAt(0).toUpperCase() + output.slice(1)
+}
+
 const run = async () => {
     const botKey = process.argv[2]
     if (!botKey) {
@@ -42,15 +47,15 @@ const run = async () => {
  
     var grammar = tracery.createGrammar(botData.grammar)
     
-    grammar.addModifiers(tracery.baseEngModifiers) 
+    grammar.addModifiers(tracery.baseEngModifiers)
     
-    let output = grammar.flatten('#origin#')
+    let output = make(grammar)
 
     if (previous.includes(output))
     {
         while (previous.includes(output))
         {
-            output = grammar.flatten('#origin#')
+            output = make(grammar)
         }
     } else {
         previous += `\n${output}`
