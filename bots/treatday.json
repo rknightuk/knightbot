@@ -9,7 +9,7 @@
             "#day#'s #types# are #food# so #invite# my #theme#-themed restaurant: its #adjective#!",
             "#invite# my #theme#-themed restaurant and #eat# #amount# of #food#.",
             "The #staff# at Brian Butterfield's #theme#-themed restaurant have been making #food# #time# just for you.",
-            "#day# at Brian Butterfield's #theme# Restaurant the #food# are #adjective#."
+            "#day# at Brian Butterfield's #theme#-themed Restaurant the #food# are #adjective#."
         ],
         "staff": [
             "humans",
