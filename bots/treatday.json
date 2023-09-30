@@ -2,7 +2,7 @@
     "name": "Brian Butterfield Restaurant Bot",
     "username": "treatday",
     "url": "https://bugle.lol/@treatdat",
-    "description": "",
+    "description": "Generating themed restaurants and menus",
     "grammar": {
         "origin": "#description#",
         "description": [
