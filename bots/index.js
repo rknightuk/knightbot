@@ -3,15 +3,15 @@ import fs from 'fs'
 const data = {
     family: {},
     treatday: {},
-    intersect: {
-        generate: (botData) => {
-            const link = botData.links[(Math.floor(Math.random() * botData.links.length)) - 1]
-            return {
-                previousCheck: link.link,
-                content: `[${link.title}](${link.link}) (from [${link.source.title}](https://intersect.rknight.me${link.source.url}))`,
-            }
-        },
-    },
+    // intersect: {
+    //     generate: (botData) => {
+    //         const link = botData.links[(Math.floor(Math.random() * botData.links.length)) - 1]
+    //         return {
+    //             previousCheck: link.link,
+    //             content: `[${link.title}](${link.link}) (from [${link.source.title}](https://intersect.rknight.me${link.source.url}))`,
+    //         }
+    //     },
+    // },
     remakes: {
         includeImage: true,
         generate: (botData) => {
