@@ -74,7 +74,7 @@ const run = async () => {
         }
     } else 
     {
-        previous += `\n${output.content}`
+        previous += `\n${output.previousCheck}`
     }
 
     fs.writeFileSync(`./bots/${botKey}.previous`, previous)
