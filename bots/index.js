@@ -3,6 +3,7 @@ import fs from 'fs'
 const data = {
     family: {},
     treatday: {},
+    daddy: {},
     intersect: {
         generate: (botData) => {
             const link = botData.links[(Math.floor(Math.random() * botData.links.length)) - 1]
