@@ -4,7 +4,30 @@
     "url": "https://bugle.lol/@zobot",
     "description": "Leveraging Your Everything",
     "grammar": {
-        "origin": "Leveraging Your #noun#",
+        "origin": "#description#",
+        "description": [
+            "Leveraging Your #noun#",
+            "Type Safe #noun#",
+            "Fix Your #noun# with Proper Types",
+            "#lang#, #noun#, and Types",
+            "#noun#: Strongly Typed",
+            "Untyped #noun# are #bad#",
+            "Using Generics with #noun#",
+            "#lang# Types are a Perfect fit for #noun#",
+            "Compiling #noun# with #lang#"
+        ],
+        "lang": [
+            "Rust",
+            "TypeScript",
+            "Java",
+            "Objective-C"
+        ],
+        "bad": [
+            "an Anti-Pattern",
+            "Code Smell",
+            "Technical Debt",
+            "a Liability"
+        ],
         "noun": [
             "Abcesses",
             "Abilities",
