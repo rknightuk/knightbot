@@ -4,6 +4,7 @@ const data = {
     family: {},
     treatday: {},
     daddy: {},
+    zobot: {},
     intersect: {
         generate: (botData) => {
             const link = botData.links[(Math.floor(Math.random() * botData.links.length)) - 1]
